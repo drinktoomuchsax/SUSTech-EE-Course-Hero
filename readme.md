@@ -15,7 +15,7 @@
 </p>
 </div>
 
-> 因为GitHub储存空闲限制，仓库正在搬移到onedrive上，文件暂时不能访问，抱歉
+> **因为GitHub储存空闲限制，仓库正在搬移到onedrive上，文件暂时不能访问，抱歉**
 
 _This page is also available in [English](README.en.md)_ 
 
