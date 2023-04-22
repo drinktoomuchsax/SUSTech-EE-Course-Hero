@@ -198,7 +198,7 @@ _This page is also available in [English](README.en.md)_
 
 ---
 
-## Star History
+## :star: Star History :star:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=drinktoomuchsax/SUSTech-EE-Course-Hero&type=Date)](https://star-history.com/#drinktoomuchsax/SUSTech-EE-Course-Hero&Date)
 
