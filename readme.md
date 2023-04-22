@@ -26,7 +26,7 @@ _This page is also available in [English](README.en.md)_
 :+1:以及，欢迎分享传播。
 
 ---
-# :kissing:关于文件
+# :kissing: 关于文件 :kissing:
 
 ## [Onedrive备份](https://1drv.ms/f/s!AqbTzuEct2WAgeECICJblJBK7TkPSQ?e=ON5fvp)
 **因为GitHub LFS每月5刀的高昂费用和一些其他原因，大部分文件不会直接放在GitHub上，而是使用Onedrive作为主力备份仓库**
@@ -36,8 +36,134 @@ _This page is also available in [English](README.en.md)_
 
 ---
 
-# :books: 文件结构  
+# :children_crossing: 课程索引 :children_crossing:
 
+
+
+## :blush:EE104_电路基础_Fundamentals-of-Electric-Circuits
+### 习题答案
+> 习题来自于国外教材，有对应的[参考答案](https://onedrive.live.com/?cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128353&parId=8065B71CE1CED3A6%2128346&o=OneUp)，当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/fundamentals-of-electric-circuits-5th-edition-9780073380575)看课本答案。
+
+### 过往试卷
+#### 期中
+> * [2021_秋季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128349&parId=8065B71CE1CED3A6%2128345&o=OneUp)
+> * [2023_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128605&parId=8065B71CE1CED3A6%2128345&o=OneUp)
+
+
+ 
+## :smiley:EE205_信号与系统_Signal-and-System
+### 习题答案
+> 可以参考@Yifei Sun留下来的Tutorial（[Onedrive备份](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126971&cid=8065B71CE1CED3A6)，当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/signals-and-systems-2nd-edition-9780138147570)看课本答案。
+
+### 过往试卷
+
+> 比较少，[有待补充](EE205_信号与系统_Signal-and-System/Exam_Paper)
+
+### Lab
+#### 实验报告
+
+
+
+## :kissing_heart:EE201_模拟电路_analog-circuits
+
+### 过往试卷
+#### :warning:注意:warning:
+> "试卷难度只能作为参考，每个老师地出题喜好不同，不能做一张试卷就掉以轻心。" *23年秋季的学长含泪打下这段字*
+
+#### 期中
+> * [(可能是)2020_秋季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128247&parId=8065B71CE1CED3A6%2127310&o=OneUp)和其[参考答案@陈梓宁](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128246&parId=8065B71CE1CED3A6%2127310&o=OneUp)
+> * [2023_春季_期中_第一题](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2129583&parId=8065B71CE1CED3A6%2127310&o=OneUp)
+#### 期末
+
+
+
+
+
+## :flushed:EE201-17L_模拟电路实验_analog-circuits-laboratory
+### 实验报告：
+> * [Lab1_95_二极管的电路应用](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127685&parId=8065B71CE1CED3A6%2126957&o=OneUp)
+> * [Lab1_100_二极管的电路应用](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127687&parId=8065B71CE1CED3A6%2126957&o=OneUp)
+> * [Lab2_100_Common-emitter BJT Amplifiers](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127686&parId=8065B71CE1CED3A6%2126957&o=OneUp)
+> * [Lab2_100_共射极单管放大电路](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127683&parId=8065B71CE1CED3A6%2126957&o=OneUp)
+> * [Lab2_100_共射极单管放大电路 (2)](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127684&parId=8065B71CE1CED3A6%2126957&o=OneUp)
+> * [Lab3_100_差动放大电路](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127680&parId=8065B71CE1CED3A6%2126957&o=OneUp)
+> * [Lab3_100_差动放大电路 (2)](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127682&parId=8065B71CE1CED3A6%2126957&o=OneUp)
+> * [Lab4_100_集成功率放大器](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127679&parId=8065B71CE1CED3A6%2126957&o=OneUp)
+> * [Lab5_95_运算放大器的应用](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127678&parId=8065B71CE1CED3A6%2126957&o=OneUp)
+> * [Lab5_100_运算放大器的应用](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127681&parId=8065B71CE1CED3A6%2126957&o=OneUp)
+> * [Lab6_100_负反馈放大电路研究](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127676&parId=8065B71CE1CED3A6%2126957&o=OneUp)
+> * [Lab6_100_负反馈放大电路研究 (2)](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127677&parId=8065B71CE1CED3A6%2126957&o=OneUp)
+
+### DIY Project
+
+
+
+
+## :smirk:EE202_数字电路_Digital-Circuits
+### 习题答案
+> 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127775&parId=8065B71CE1CED3A6%2126969&o=OneUp)。
+### 过往试卷
+#### 期中
+> * [2023年_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128625&parId=8065B71CE1CED3A6%2126968&o=OneUp)
+#### 期末
+
+### Tips:
+* 以下几个网站能够转换和简化逻辑表达式、真值表、卡诺图和Verilog：
+  * [ictlab.kz/extra/Kmap](https://ictlab.kz/extra/Kmap/)
+  * [charlie-coleman.com](https://charlie-coleman.com/experiments/kmap/)
+  * [web.stanford.edu](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
+* 卡西欧计算器可以方便地进行进制转换、补码原码转换，具体内容参见说明书**基数计算**部分
+  * [casio-fx-991cn-x说明书](https://manualzz.com/doc/50885404/casio-fx-991cn-x-%E8%AF%B4%E6%98%8E%E4%B9%A6)
+
+
+
+
+## :kissing_closed_eyes:EE202-17L_数字电路实验_Digital-Circuits_Laboratory
+### 实验报告:
+> * [Lab1_100_门电路逻辑功能及测试](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127694&parId=8065B71CE1CED3A6%2126958&o=OneUp)
+> * [Lab2_mix_CMOS门电路测试](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127695&parId=8065B71CE1CED3A6%2126958&o=OneUp)
+> * [Lab3_100_组合逻辑电路](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127692&parId=8065B71CE1CED3A6%2126958&o=OneUp)
+> * [Lab3_mix_组合逻辑电路](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127691&parId=8065B71CE1CED3A6%2126958&o=OneUp)
+> * [Lab5_100_触发器](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127690&parId=8065B71CE1CED3A6%2126958&o=OneUp)
+> * [Lab5_mix_触发器](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127693&parId=8065B71CE1CED3A6%2126958&o=OneUp)
+> * [Lab6_mix_时序逻辑电路](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127688&parId=8065B71CE1CED3A6%2126958&o=OneUp)
+> * [Lab7_mix_555时基电路](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127689&parId=8065B71CE1CED3A6%2126958&o=OneUp)
+
+### DIY Project
+
+
+
+
+## :heart_eyes:EE206_通信原理_Communication-Principle
+通信原理一直都是贡老师教学，习题比较古老。从一次作业的文件title来看，应该是他从南洋理工时期就存在了。
+### 习题答案
+> [习题解答](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126975&cid=8065B71CE1CED3A6)
+### 过往试卷
+#### 期中
+> * [2023年_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128794&parId=8065B71CE1CED3A6%2127311&o=OneUp)
+
+### LAB
+#### 实验报告
+
+
+
+---
+
+# :mortar_board: 说明 :mortar_board: 
+内容来源为各QQ群文件、人传人资料等等，不能保证百分百规范，如果某部分内容侵犯了你的权益，欢迎[提交issue](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/issues/new)或<a href="mailto:drinktoomuchsax@qq.com">邮件联系</a>我。
+
+---
+
+# :telephone_receiver: 保持联系 :telephone_receiver:
+“电子求生营”是2022年3月4日建成的QQ群聊，旨在为电子系、SDIM、微电子学院的同学搭建交流平台，本仓库初始的大部分文件就来自于这个QQ群，欢迎加入。
+
+[![QR Code of 电子求生营](https://i.328888.xyz/2023/04/12/iXO1gp.png)](https://qm.qq.com/cgi-bin/qm/qr?k=yfgWdhDg_6PMpfJoAmHeDMJU4Zil21PM&jump_from=webapi&authKey=EMWTKJwK77Lrx6plXWzJHfXihYLV3JVRDe/ou4qaipORA88OiKtVsus+gFOVAJNd)
+ > :point_up: **点击**或**扫描**二维码即可跳转加群  
+ > :mag: 也可搜索群号 **_868933896_** 申请加群
+
+---
+
+# :books: 文件结构  :books: 
 
 ├─EE104_电路基础_Fundamentals-of-Electric-Circuits  
 │  ├─Assignment_Answer  
@@ -111,73 +237,3 @@ _This page is also available in [English](README.en.md)_
     └─Slides   
 
 ---
-# :children_crossing:课程索引
-
-## EE104_电路基础_Fundamentals-of-Electric-Circuits
-### 习题答案
-习题来自于国外教材，有对应的[参考答案](https://onedrive.live.com/?cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128353&parId=8065B71CE1CED3A6%2128346&o=OneUp)，当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/fundamentals-of-electric-circuits-5th-edition-9780073380575)看课本答案。
-
-### 过往试卷
-#### 期中
-> * [2021_秋季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128349&parId=8065B71CE1CED3A6%2128345&o=OneUp)
-> * [2023_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128605&parId=8065B71CE1CED3A6%2128345&o=OneUp)
-## EE205_信号与系统_Signal-and-System
-### 习题答案
-可以参考@Yifei Sun留下来的Tutorial（[Onedrive备份](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126971&cid=8065B71CE1CED3A6)，当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/signals-and-systems-2nd-edition-9780138147570)看课本答案。
-
-### 过往试卷
-
-比较少，[有待补充](EE205_信号与系统_Signal-and-System/Exam_Paper)
-
-## EE201_模拟电路_analog-circuits
-
-### 过往试卷
-#### :warning:注意:warning:
-> "试卷难度只能作为参考，每个老师地出题喜好不同，不能做一张试卷就掉以轻心。" *23年秋季的学长含泪打下这段字*
-
-#### 期中
-> * [(可能是)2020_秋季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128247&parId=8065B71CE1CED3A6%2127310&o=OneUp)和其[参考答案@陈梓宁](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128246&parId=8065B71CE1CED3A6%2127310&o=OneUp)
-> * [2023_春季_期中_第一题](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2129583&parId=8065B71CE1CED3A6%2127310&o=OneUp)
-#### 期末
-
-
-## EE202_数字电路_Digital-Circuits
-### 习题答案
-习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127775&parId=8065B71CE1CED3A6%2126969&o=OneUp)。
-### 过往试卷
-#### 期中
-> * [2023年_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128625&parId=8065B71CE1CED3A6%2126968&o=OneUp)
-#### 期末
-
-### Tips:
-* 以下几个网站能够转换和简化逻辑表达式、真值表、卡诺图和Verilog：
-  * [ictlab.kz/extra/Kmap](https://ictlab.kz/extra/Kmap/)
-  * [charlie-coleman.com](https://charlie-coleman.com/experiments/kmap/)
-  * [web.stanford.edu](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
-* 卡西欧计算器可以方便地进行进制转换、补码原码转换，具体内容参见说明书**基数计算**部分
-  * [casio-fx-991cn-x说明书](https://manualzz.com/doc/50885404/casio-fx-991cn-x-%E8%AF%B4%E6%98%8E%E4%B9%A6)
-
-## EE206_通信原理_Communication-Principle
-通信原理一直都是贡老师教学，习题比较古老，应该是从南阳理工时期就存在了。
-### 习题答案
-[习题解答](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126975&cid=8065B71CE1CED3A6)
-### 过往试卷
-#### 期中
-> * [2023年_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128794&parId=8065B71CE1CED3A6%2127311&o=OneUp)
-
-### Lab
-#### 实验报告
-
----
-
-# :mortar_board: 说明
-内容来源为各QQ群文件、人传人资料等等，不能保证百分百规范，如果某部分内容侵犯了你的权益，欢迎[提交issue](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/issues/new)或<a href="mailto:drinktoomuchsax@qq.com">邮件联系</a>我。
-
----
-
-# :telephone_receiver: 保持联系
-“电子求生营”是2022年3月4日建成的QQ群聊，旨在为电子系、SDIM、微电子学院的同学搭建交流平台，本仓库初始的大部分文件就来自于这个QQ群，欢迎加入。
-
-[![QR Code of 电子求生营](https://i.328888.xyz/2023/04/12/iXO1gp.png)](https://qm.qq.com/cgi-bin/qm/qr?k=yfgWdhDg_6PMpfJoAmHeDMJU4Zil21PM&jump_from=webapi&authKey=EMWTKJwK77Lrx6plXWzJHfXihYLV3JVRDe/ou4qaipORA88OiKtVsus+gFOVAJNd)
- > :point_up: **点击**或**扫描**二维码即可跳转加群  
- > :mag: 也可搜索群号 **_868933896_** 申请加群
