@@ -1,3 +1,23 @@
+# git有忽略优先级，不能乱改顺序
+
+# 按项目来忽略
+
+## 2023年春季期中
+
+/EE202-17_数字电路_Digital-Circuit/
+
+/EE202-17_数字电路_Digital-Circuit/Exam_Paper/paper_2023spring_midterm/
+
+/EE206_通信原理_Communication-Principles\Exam_Paper\通信原理_2023-spring_midterm
+
+# windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+#macos
+.DS_Store
+
+
 # 按文件类型忽略
 ## PDF
 *.pdf
@@ -12,21 +32,28 @@
 ## mac zip
 *.DS_Store
 
-# 按项目来忽略
-
-## 2023年春季期中
-
-/paper_2023spring_midterm
-
-\EE206_通信原理_Communication-Principles\Exam_Paper\通信原理_2023-spring_midterm
-
-# windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-#macos
-.DS_Store
-
 #反忽略
+##数电实验
+!EE202-17L_数字电路实验_Digital-Circuits-Lab/数字电路实验报告3. 组合逻辑电路.docx
+!EE202-17L_数字电路实验_Digital-Circuits-Lab/Lab1_100_门电路逻辑功能及测试.pdf
+!EE202-17L_数字电路实验_Digital-Circuits-Lab/Lab2_mix_CMOS门电路测试.pdf
+!EE202-17L_数字电路实验_Digital-Circuits-Lab/Lab3_100_组合逻辑电路.pdf
+!EE202-17L_数字电路实验_Digital-Circuits-Lab/Lab3_mix_组合逻辑电路.pdf
+!EE202-17L_数字电路实验_Digital-Circuits-Lab/Lab5_100_触发器.pdf
+!EE202-17L_数字电路实验_Digital-Circuits-Lab/Lab5_mix_触发器.pdf
+!EE202-17L_数字电路实验_Digital-Circuits-Lab/Lab6_mix_时序逻辑电路.pdf
+!EE202-17L_数字电路实验_Digital-Circuits-Lab/Lab7_mix_555时基电路.pdf
 
-! EE202-17L_数字电路实验_Digital-Circuits-Lab/
+##模电实验
+!EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab1_95_二极管的电路应用.pdf
+!EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab1_100_二极管的电路应用.pdf
+!EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab2_100_共射极单管放大电路 (2).pdf
+!EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab2_100_共射极单管放大电路.pdf
+!EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab2_100_Common-emitter BJT Amplifiers.pdf
+!EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab3_100_差动放大电路 (2).pdf
+!EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab3_100_差动放大电路.pdf
+!EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab4_100_集成功率放大器.pdf
+!EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab5_95_运算放大器的应用.pdf
+!EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab5_100_运算放大器的应用.pdf
+!EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab6_100_负反馈放大电路研究 (2).pdf
+!EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab6_100_负反馈放大电路研究.pdf
