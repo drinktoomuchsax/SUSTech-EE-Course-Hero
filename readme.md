@@ -78,7 +78,7 @@ _This page is also available in [English](README.en.md)_
 │  └─Reference
 ├─SDM242_Analog Circuit System Design_模拟电路系统设计
 │  ├─Reference
-│  ├─Slides
+│  ├─Slides  
 │  └─Study_Note
 ├─SDM263_自动控制理论
 │  ├─Reference
@@ -108,7 +108,7 @@ _This page is also available in [English](README.en.md)_
     ├─Project
     ├─Reference
     └─Slides 
-    
+
 ---
 # :children_crossing:课程索引
 
