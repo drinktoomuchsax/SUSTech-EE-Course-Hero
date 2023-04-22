@@ -38,76 +38,76 @@ _This page is also available in [English](README.en.md)_
 # :books: 文件结构  
 
 
-├─EE104_电路基础_Fundamentals-of-Electric-Circuits
-│  ├─Assignment_Answer
-│  ├─Cheating_Paper
-│  ├─Exam_Paper
-│  │  └─2023-spring_midterm
-│  ├─Lab_Report
-│  ├─Project
-│  ├─Reference
+├─EE104_电路基础_Fundamentals-of-Electric-Circuits  
+│  ├─Assignment_Answer  
+│  ├─Cheating_Paper  
+│  ├─Exam_Paper  
+│  │  └─2023-spring_midterm  
+│  ├─Lab_Report  
+│  ├─Project  
+│  ├─Reference  
+│  └─Slides  
+├─EE201-17L_模拟电路实验_Analog-Circuits-Laboratory  
+├─EE201-17_模拟电路_Analog-Circuit  
+│  ├─Assignment_Answer  
+│  ├─Exam_Paper  
+│  └─Reference  
+├─EE202-17L_数字电路实验_Digital-Circuits-Lab  
+├─EE202-17_数字电路_Digital-Circuit  
+│  ├─Assignment_Answer  
+│  ├─Exam_Paper  
+│  │  └─paper_2023spring_midterm  
+│  └─Reference  
+├─EE205_信号与系统_Signal-and-System  
+│  ├─Assignment_Answer  
+│  ├─Exam_Paper  
+│  └─Reference  
+├─EE206_通信原理_Communication-Principles  
+│  ├─Assignment_Answer  
+│  ├─Exam_Paper  
+│  │  └─通信原理_2023-spring_midterm  
+│  ├─Lab_Report  
+│  ├─Reference  
 │  └─Slides
-├─EE201-17L_模拟电路实验_Analog-Circuits-Laboratory
-├─EE201-17_模拟电路_Analog-Circuit
-│  ├─Assignment_Answer
-│  ├─Exam_Paper
-│  └─Reference
-├─EE202-17L_数字电路实验_Digital-Circuits-Lab
-├─EE202-17_数字电路_Digital-Circuit
-│  ├─Assignment_Answer
-│  ├─Exam_Paper
-│  │  └─paper_2023spring_midterm
-│  └─Reference
-├─EE205_信号与系统_Signal-and-System
-│  ├─Assignment_Answer
-│  ├─Exam_Paper
-│  └─Reference
-├─EE206_通信原理_Communication-Principles
-│  ├─Assignment_Answer
-│  ├─Exam_Paper
-│  │  └─通信原理_2023-spring_midterm
-│  ├─Lab_Report
-│  ├─Reference
-│  └─Slides
-├─EE207_工程数学_Engineering-Mathematics
-├─EE208_工程电磁场_Engineering-Electromagnetics
-├─EE332_数字系统设计_Digital-System-Design
-├─MA212_概率论与数理统计_Probability-and-Statistics
-│  ├─Exam_Paper
-│  │  └─概统_2020秋_quiz
-│  └─Reference
-├─SDM242_Analog Circuit System Design_模拟电路系统设计
-│  ├─Reference
-│  ├─Slides  
-│  └─Study_Note
-├─SDM263_自动控制理论
-│  ├─Reference
-│  └─Refs
-├─SDM271_系统建模与仿真
-│  └─Reference
-├─SME201_集成电路基础I-模拟集成电路
-│  ├─Assignment_Answer
-│  ├─Cheating_Paper
-│  ├─Exam_Paper
-│  ├─Lab_Report
-│  ├─Project
-│  ├─Reference
-│  └─Slides
-├─SME202_集成电路基础II—数字集成电路
-│  └─Reference
-├─SME203_微电子基础I-半导体材料物理
-│  ├─Assignment_Answer
-│  └─Reference
-├─SME205_电磁场和电磁波
-├─Temp
-└─XX621_新建课程模版_course-template
-    ├─Assignment_Answer
-    ├─Cheating_Paper
-    ├─Exam_Paper
-    ├─Lab_Report
-    ├─Project
-    ├─Reference
-    └─Slides 
+├─EE207_工程数学_Engineering-Mathematics  
+├─EE208_工程电磁场_Engineering-Electromagnetics  
+├─EE332_数字系统设计_Digital-System-Design  
+├─MA212_概率论与数理统计_Probability-and-Statistics  
+│  ├─Exam_Paper  
+│  │  └─概统_2020秋_quiz  
+│  └─Reference  
+├─SDM242_Analog Circuit System Design_模拟电路系统设计  
+│  ├─Reference  
+│  ├─Slides    
+│  └─Study_Note  
+├─SDM263_自动控制理论  
+│  ├─Reference  
+│  └─Refs  
+├─SDM271_系统建模与仿真  
+│  └─Reference  
+├─SME201_集成电路基础I-模拟集成电路  
+│  ├─Assignment_Answer  
+│  ├─Cheating_Paper  
+│  ├─Exam_Paper  
+│  ├─Lab_Report  
+│  ├─Project  
+│  ├─Reference  
+│  └─Slides  
+├─SME202_集成电路基础II—数字集成电路  
+│  └─Reference  
+├─SME203_微电子基础I-半导体材料物理  
+│  ├─Assignment_Answer  
+│  └─Reference  
+├─SME205_电磁场和电磁波  
+├─Temp  
+└─XX621_新建课程模版_course-template  
+    ├─Assignment_Answer  
+    ├─Cheating_Paper  
+    ├─Exam_Paper  
+    ├─Lab_Report  
+    ├─Project  
+    ├─Reference  
+    └─Slides   
 
 ---
 # :children_crossing:课程索引
