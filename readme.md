@@ -113,9 +113,17 @@ _This page is also available in [English](README.en.md)_
 ---
 # :children_crossing:课程索引
 
+## EE104_电路基础_Fundamentals-of-Electric-Circuits
+### 习题答案
+习题来自于国外教材，有对应的[参考答案](https://onedrive.live.com/?cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128353&parId=8065B71CE1CED3A6%2128346&o=OneUp)，当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/fundamentals-of-electric-circuits-5th-edition-9780073380575)看课本答案。
+
+### 过往试卷
+#### 期中
+> * [2021_秋季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128349&parId=8065B71CE1CED3A6%2128345&o=OneUp)
+> * [2023_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128605&parId=8065B71CE1CED3A6%2128345&o=OneUp)
 ## EE205_信号与系统_Signal-and-System
 ### 习题答案
-可以参考@Yifei Sun留下来的Tutorial（[Onedrive备份](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126971&cid=8065B71CE1CED3A6)），当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/signals-and-systems-2nd-edition-9780138147570)看课本答案。
+可以参考@Yifei Sun留下来的Tutorial（[Onedrive备份](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126971&cid=8065B71CE1CED3A6)，当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/signals-and-systems-2nd-edition-9780138147570)看课本答案。
 
 ### 过往试卷
 
@@ -140,7 +148,9 @@ _This page is also available in [English](README.en.md)_
 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127775&parId=8065B71CE1CED3A6%2126969&o=OneUp)。
 ### 过往试卷
 #### 期中
-> * [2023年_春季_期中](EE202-17_数字电路_Digital-Circuit/Exam_Paper/Digital-Circuit_2023-Spring_Midterm.pdf)
+> * [2023年_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128625&parId=8065B71CE1CED3A6%2126968&o=OneUp)
+#### 期末
+
 ### Tips:
 * 以下几个网站能够转换和简化逻辑表达式、真值表、卡诺图和Verilog：
   * [ictlab.kz/extra/Kmap](https://ictlab.kz/extra/Kmap/)
@@ -148,6 +158,17 @@ _This page is also available in [English](README.en.md)_
   * [web.stanford.edu](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
 * 卡西欧计算器可以方便地进行进制转换、补码原码转换，具体内容参见说明书**基数计算**部分
   * [casio-fx-991cn-x说明书](https://manualzz.com/doc/50885404/casio-fx-991cn-x-%E8%AF%B4%E6%98%8E%E4%B9%A6)
+
+## EE206_通信原理_Communication-Principle
+通信原理一直都是贡老师教学，习题比较古老，应该是从南阳理工时期就存在了。
+### 习题答案
+[习题解答](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126975&cid=8065B71CE1CED3A6)
+### 过往试卷
+#### 期中
+> * [2023年_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128794&parId=8065B71CE1CED3A6%2127311&o=OneUp)
+
+### Lab
+#### 实验报告
 
 ---
 
