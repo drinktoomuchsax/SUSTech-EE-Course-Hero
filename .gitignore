@@ -1,17 +1,19 @@
-#PDF
+# 按文件类型忽略
+## PDF
 *.pdf
-
-#zip
-
+## zip
 *.zip
-
-#ppt
+## ppt
 *.pptx
 *.ppt
-
-#doc
+## doc
 *.doc
 *.docx
-
-#mac zip
+## mac zip
 *.DS_Store
+
+# 按项目来忽略
+
+## 2023年春季期中
+EE202-17_数字电路_Digital-Circuit/Exam_Paper/paper_2023spring_midterm/
+EE206_通信原理_Communication-Principles/Exam_Paper/通信原理_2023-spring_midterm/

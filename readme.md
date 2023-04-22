@@ -15,8 +15,6 @@
 </p>
 </div>
 
-> **因为GitHub储存空闲限制，仓库正在搬移到onedrive上，文件暂时不能访问，抱歉**
-
 _This page is also available in [English](README.en.md)_ 
 
 [![Repo Size](https://img.shields.io/github/repo-size/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero)         [![GitHub license](https://img.shields.io/github/license/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/blob/main/LICENSE)       [![GitHub contributors](https://img.shields.io/github/contributors/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/graphs/contributors/)                                   [![GitHub stars](https://img.shields.io/github/stars/drinktoomuchsax/SUSTech-EE-Course-Hero?style=social)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/stargazers/)
@@ -26,6 +24,13 @@ _This page is also available in [English](README.en.md)_
 :star:鼓励各位使用本仓库的同学积极建设本仓库，以及顺手给一个Star。
 
 :+1:以及，欢迎分享传播。
+
+---
+
+## [Onedrive备份](https://1drv.ms/f/s!AqbTzuEct2WAgeECICJblJBK7TkPSQ?e=ON5fvp)
+因为GitHub LFS每月5刀的高昂费用和一些其他原因，文件不会直接放在GitHub上，而是使用Onedrive作为主力备份仓库
+
+## [阿里云备份](https://www.aliyundrive.com/s/3fBW4x2D1vd)
 
 ---
 
@@ -62,7 +67,7 @@ _This page is also available in [English](README.en.md)_
 
 ## EE205_信号与系统_Signal-and-System
 ### 习题答案
-可以参考[仓库里的Tutorial](EE205_信号与系统_Signal-and-System/Assignment_Answer)也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/signals-and-systems-2nd-edition-9780138147570)看课本答案
+可以参考@Yifei Sun留下来的Tutorial（[Onedrive备份](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126971&cid=8065B71CE1CED3A6)），当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/signals-and-systems-2nd-edition-9780138147570)看课本答案。
 
 ### 过往试卷
 
@@ -77,13 +82,14 @@ _This page is also available in [English](README.en.md)_
 > 考试结束除了清点答题卡外，还会清点试卷。如果想要带出题目来，不建议私藏试卷，建议写在草稿纸上。
 
 #### 期中
-> * [(可能是)2020_秋季_期中](EE201-17_模拟电路_Analog-Circuit/Exam_Paper/paper_2022-fall_midterm_maybe.pdf)和其[参考答案@陈梓宁](EE201-17_模拟电路_Analog-Circuit/Exam_Paper)
-> * [2023_春季_期中_第一题](EE201-17_模拟电路_Analog-Circuit/Exam_Paper/paper_2023-spring_midterm_onlyFirst_陈晓龙.png)
+> * [(可能是)2020_秋季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128247&parId=8065B71CE1CED3A6%2127310&o=OneUp)和其[参考答案@陈梓宁](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128246&parId=8065B71CE1CED3A6%2127310&o=OneUp)
+> * [2023_春季_期中_第一题](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2129583&parId=8065B71CE1CED3A6%2127310&o=OneUp)
 #### 期末
+
 
 ## EE202_数字电路_Digital-Circuits
 ### 习题答案
-习题来自于国内经典教材，有对应的[习题解答册](EE202-17_数字电路_Digital-Circuit/Reference/数字电子技术基础_学习辅导与习题解答_第6版_(阎石，王红编)_(z-lib.org).pdf)。
+习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127775&parId=8065B71CE1CED3A6%2126969&o=OneUp)。
 ### 过往试卷
 暂无
 ### Tips:
