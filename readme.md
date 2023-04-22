@@ -135,8 +135,6 @@ _This page is also available in [English](README.en.md)_
 #### :warning:注意:warning:
 > "试卷难度只能作为参考，每个老师地出题喜好不同，不能做一张试卷就掉以轻心。" *23年秋季的学长含泪打下这段字*
 
-> 考试结束除了清点答题卡外，还会清点试卷。如果想要带出题目来，不建议私藏试卷，建议写在草稿纸上。
-
 #### 期中
 > * [(可能是)2020_秋季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128247&parId=8065B71CE1CED3A6%2127310&o=OneUp)和其[参考答案@陈梓宁](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128246&parId=8065B71CE1CED3A6%2127310&o=OneUp)
 > * [2023_春季_期中_第一题](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2129583&parId=8065B71CE1CED3A6%2127310&o=OneUp)
