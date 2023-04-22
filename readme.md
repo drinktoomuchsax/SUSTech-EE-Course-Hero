@@ -28,9 +28,10 @@ _This page is also available in [English](README.en.md)_
 ---
 
 ## [Onedrive备份](https://1drv.ms/f/s!AqbTzuEct2WAgeECICJblJBK7TkPSQ?e=ON5fvp)
-因为GitHub LFS每月5刀的高昂费用和一些其他原因，文件不会直接放在GitHub上，而是使用Onedrive作为主力备份仓库
+因为GitHub LFS每月5刀的高昂费用和一些其他原因，大部分文件不会直接放在GitHub上，而是使用Onedrive作为主力备份仓库
 
 ## [阿里云备份](https://www.aliyundrive.com/s/3fBW4x2D1vd)
+阿里云相较Onedrive缺失自动同步和关闭上传文件的功能，给不能访问OneDrive的同学勉强用着。文件依靠手动同步，若出现缺失，欢迎提醒。
 
 ---
 
