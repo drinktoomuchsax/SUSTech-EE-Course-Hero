@@ -185,7 +185,7 @@ _This page is also available in [English](README.en.md)_
 ---
 
 # :mortar_board: 说明 :mortar_board: 
-内容来源为各QQ群文件、人传人资料等等，不能保证百分百规范，如果某部分内容侵犯了你的权益，欢迎[提交issue](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/issues/new)或<a href="mailto:drinktoomuchsax@qq.com">邮件联系</a>我。
+内容来源为各github仓库、QQ群文件、人传人资料等等，不能保证百分百规范，如果某部分内容侵犯了你的权益，欢迎[提交issue](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/issues/new)或<a href="mailto:drinktoomuchsax@qq.com">邮件联系</a>我。
 
 ---
 
