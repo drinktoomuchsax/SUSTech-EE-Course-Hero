@@ -198,7 +198,9 @@ _This page is also available in [English](README.en.md)_
 
 ---
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX0xxaGRvWHZ6bXJiTXowb1JIU0dLSVBKSnJpeDEyeTJGUHRnRQ==#drinktoomuchsax/SUSTech-EE-Course-Hero&Date" frameBorder="0"></iframe>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=drinktoomuchsax/SUSTech-EE-Course-Hero&type=Date)](https://star-history.com/#drinktoomuchsax/SUSTech-EE-Course-Hero&Date)
 
 ---
 
