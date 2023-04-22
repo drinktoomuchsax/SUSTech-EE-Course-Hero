@@ -65,6 +65,8 @@ _This page is also available in [English](README.en.md)_
 
 
 ## :kissing_heart:EE201_模拟电路_analog-circuits
+### 习题答案
+> 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127703&parId=8065B71CE1CED3A6%2126964&o=OneUp)。
 
 ### 过往试卷
 #### :warning:注意:warning:
