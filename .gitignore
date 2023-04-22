@@ -1,0 +1,17 @@
+#PDF
+*.pdf
+
+#zip
+
+*.zip
+
+#ppt
+*.pptx
+*.ppt
+
+#doc
+*.doc
+*.docx
+
+#mac zip
+*.DS_Store
