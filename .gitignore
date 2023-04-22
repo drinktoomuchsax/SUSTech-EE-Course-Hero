@@ -1,11 +1,10 @@
 # git有忽略优先级，不能乱改顺序
 
+
+
 # 按项目来忽略
 
 ## 2023年春季期中
-
-/EE202-17_数字电路_Digital-Circuit/
-
 /EE202-17_数字电路_Digital-Circuit/Exam_Paper/paper_2023spring_midterm/
 
 /EE206_通信原理_Communication-Principles\Exam_Paper\通信原理_2023-spring_midterm
@@ -57,3 +56,17 @@ Desktop.ini
 !EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab5_100_运算放大器的应用.pdf
 !EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab6_100_负反馈放大电路研究 (2).pdf
 !EE201-17L_模拟电路实验_Analog-Circuits-Laboratory/Lab6_100_负反馈放大电路研究.pdf
+/EE202-17_数字电路_Digital-Circuit/
+
+##试卷
+!EE104_电路基础_Fundamentals-of-Electric-Circuits/Exam_Paper/电路基础_2023-Spring_Midterm.pdf
+!EE201-17_模拟电路_Analog-Circuit/Exam_Paper/answer_2022fall_midterm@2021陈梓宁.pdf
+!EE201-17_模拟电路_Analog-Circuit/Exam_Paper/paper_2022fall_midterm_maybe.pdf
+!EE104_电路基础_Fundamentals-of-Electric-Circuits/Exam_Paper/paper_2021fall_midterm.pdf
+!EE104_电路基础_Fundamentals-of-Electric-Circuits/Exam_Paper/paper_2023spring_midterm.pdf
+!EE202-17_数字电路_Digital-Circuit/Exam_Paper/Digital-Circuit_2023-Spring_Midterm.pdf
+!EE205_信号与系统_Signal-and-System/Exam_Paper/SAS2022秋-期中.pdf
+!EE205_信号与系统_Signal-and-System/Exam_Paper/Signal&Systems_Midterm_2022S.pdf
+!EE205_信号与系统_Signal-and-System/Exam_Paper/信号期中.pdf
+!EE206_通信原理_Communication-Principles/Exam_Paper/通信原理_2023-spring_midterm.pdf
+!EE202-17_数字电路_Digital-Circuit/Exam_Paper/Digital-Circuit_2023-Spring_Midterm.pdf

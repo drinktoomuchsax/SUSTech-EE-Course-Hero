@@ -21,17 +21,18 @@ _This page is also available in [English](README.en.md)_
 
 :open_file_folder:这个仓库归档了南方科技大学本科同学电子相关课程的部分习题答案、参考资料、实验报告以及考试试卷。
 
-:star:鼓励各位使用本仓库的同学积极建设本仓库，以及顺手给一个Star。
+:star:鼓励各位使用本仓库的同学参考[how_to_contribure](/how_to_contribute.md)积极建设本仓库，以及顺手给一个Star。
 
 :+1:以及，欢迎分享传播。
 
 ---
+# :kissing:关于文件
 
 ## [Onedrive备份](https://1drv.ms/f/s!AqbTzuEct2WAgeECICJblJBK7TkPSQ?e=ON5fvp)
-因为GitHub LFS每月5刀的高昂费用和一些其他原因，大部分文件不会直接放在GitHub上，而是使用Onedrive作为主力备份仓库
+**因为GitHub LFS每月5刀的高昂费用和一些其他原因，大部分文件不会直接放在GitHub上，而是使用Onedrive作为主力备份仓库**
 
 ## [阿里云备份](https://www.aliyundrive.com/s/3fBW4x2D1vd)
-阿里云相较Onedrive缺失自动同步和关闭上传文件的功能，给不能访问OneDrive的同学勉强用着。文件依靠手动同步，若出现缺失，欢迎提醒。
+**阿里云相较Onedrive缺失自动同步和关闭上传文件的功能，给不能访问OneDrive的同学勉强用着。文件依靠手动同步，若出现缺失，欢迎提醒。**
 
 ---
 
@@ -138,7 +139,8 @@ _This page is also available in [English](README.en.md)_
 ### 习题答案
 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127775&parId=8065B71CE1CED3A6%2126969&o=OneUp)。
 ### 过往试卷
-暂无
+#### 期中
+> * [2023年_春季_期中](EE202-17_数字电路_Digital-Circuit/Exam_Paper/Digital-Circuit_2023-Spring_Midterm.pdf)
 ### Tips:
 * 以下几个网站能够转换和简化逻辑表达式、真值表、卡诺图和Verilog：
   * [ictlab.kz/extra/Kmap](https://ictlab.kz/extra/Kmap/)
