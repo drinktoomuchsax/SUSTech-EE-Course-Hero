@@ -40,7 +40,7 @@ _This page is also available in [English](README.en.md)_
 
 
 
-## :blush:EE104_电路基础_Fundamentals-of-Electric-Circuits
+## :loop:EE104 电路基础 Fundamentals-of-Electric-Circuits
 ### 习题答案
 > 习题来自于国外教材，有对应的[参考答案](https://onedrive.live.com/?cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128353&parId=8065B71CE1CED3A6%2128346&o=OneUp)，当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/fundamentals-of-electric-circuits-5th-edition-9780073380575)看课本答案。
 
@@ -51,7 +51,7 @@ _This page is also available in [English](README.en.md)_
 
 
  
-## :smiley:EE205_信号与系统_Signal-and-System
+## :currency_exchange:EE205 信号与系统 Signal-and-System
 ### 习题答案
 > 可以参考@Yifei Sun留下来的Tutorial（[Onedrive备份](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126971&cid=8065B71CE1CED3A6)，当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/signals-and-systems-2nd-edition-9780138147570)看课本答案。
 
@@ -59,12 +59,16 @@ _This page is also available in [English](README.en.md)_
 
 > 比较少，[有待补充](EE205_信号与系统_Signal-and-System/Exam_Paper)
 
-### Lab
+### Lab Assignments and Project
+> * [2019年秋季期末Project](https://github.com/sparkcyf/SUSTech_EE205_project) @sparkcyf
+> * [2022年秋季Assignments和Project](https://github.com/Gralerfics/SUSTech-EE205-Signals-and-Systems-Lab) @Gralerfics
+> * [maybe_2022年秋季Assignments和Project](https://github.com/StortInter/EE205-Assignments) @StortInter
+> * [乱得要死_2022年秋季Assignments和Project](https://github.com/deepoceansame/SUSTECH_EE205_SignalAndSystem) @deepoceansame
 #### 实验报告
 
 
 
-## :kissing_heart:EE201_模拟电路_analog-circuits
+## :flushed:EE201 模拟电路 analog-circuits
 ### 习题答案
 > 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127703&parId=8065B71CE1CED3A6%2126964&o=OneUp)。
 
@@ -81,7 +85,7 @@ _This page is also available in [English](README.en.md)_
 
 
 
-## :flushed:EE201-17L_模拟电路实验_analog-circuits-laboratory
+## :flushed:EE201-17L 模拟电路实验 analog-circuits-laboratory
 ### 实验报告：
 > * [Lab1_95_二极管的电路应用](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127685&parId=8065B71CE1CED3A6%2126957&o=OneUp)
 > * [Lab1_100_二极管的电路应用](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127687&parId=8065B71CE1CED3A6%2126957&o=OneUp)
@@ -101,7 +105,7 @@ _This page is also available in [English](README.en.md)_
 
 
 
-## :smirk:EE202_数字电路_Digital-Circuits
+## :keycap_ten:EE202 数字电路 Digital-Circuits
 ### 习题答案
 > 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127775&parId=8065B71CE1CED3A6%2126969&o=OneUp)。
 ### 过往试卷
@@ -120,7 +124,7 @@ _This page is also available in [English](README.en.md)_
 
 
 
-## :kissing_closed_eyes:EE202-17L_数字电路实验_Digital-Circuits_Laboratory
+## :keycap_ten:EE202-17L 数字电路实验 Digital-Circuits-Laboratory
 ### 实验报告:
 > * [Lab1_100_门电路逻辑功能及测试](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127694&parId=8065B71CE1CED3A6%2126958&o=OneUp)
 > * [Lab2_mix_CMOS门电路测试](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127695&parId=8065B71CE1CED3A6%2126958&o=OneUp)
@@ -136,7 +140,7 @@ _This page is also available in [English](README.en.md)_
 
 
 
-## :heart_eyes:EE206_通信原理_Communication-Principle
+## :tv:EE206 通信原理 Communication-Principle
 通信原理一直都是贡老师教学，习题比较古老。从一次作业的文件title来看，应该是他从南洋理工时期就存在了。
 ### 习题答案
 > [习题解答](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126975&cid=8065B71CE1CED3A6)
@@ -146,6 +150,35 @@ _This page is also available in [English](README.en.md)_
 
 ### LAB
 #### 实验报告
+
+#### Labview程序
+
+
+
+
+## :electric_plug:EE208 工程电磁场理论 Engineering Electromagnetics
+
+### LAB
+> [2020Spring Lab](https://github.com/sparkcyf/SUSTech_EE208_Engineering_Electromagnetics_Lab) @sparkcyf
+
+
+
+
+
+## :bulb:EES103 电子创意设计I Creative-Electronic-Design-I
+
+### Project
+> [EES103-VideoPlayer-App](https://github.com/huanghuihui0904/SUSTech-EES103-VideoPlayer-App) @huanghuihui0904
+
+
+## :traffic_light:EE346 移动机器人导航与控制 Mobile Robot Navigation and Control
+### Project
+> [EE346-Capstone-Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
+
+
+## :wave:EE490 毕业设计 Graduation Design
+### Project
+> [2023Spring_机器学习相关？](https://github.com/nvssdvk/SUSTech_EE490_2023Spring) @nvssdvk
 
 
 
