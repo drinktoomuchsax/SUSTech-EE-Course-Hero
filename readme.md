@@ -60,7 +60,10 @@ _This page is also available in [English](README.en.md)_
 > 比较少，[有待补充](EE205_信号与系统_Signal-and-System/Exam_Paper)
 
 ### Lab Assignments and Project
+> * [2019秋季Assignments](https://github.com/sghuang19/SigSys-lab) @sghuang19
+> * [2019秋季Project](https://github.com/sghuang19/ss-project) @sghuang19
 > * [2019年秋季期末Project](https://github.com/sparkcyf/SUSTech_EE205_project) @sparkcyf
+> * [2021春季Assignments和Project](https://github.com/Tonanguyxiro/EE205_Signal_and_System_LAB) @Tonanguyxiro
 > * [2022年秋季Assignments和Project](https://github.com/Gralerfics/SUSTech-EE205-Signals-and-Systems-Lab) @Gralerfics
 > * [maybe_2022年秋季Assignments和Project](https://github.com/StortInter/EE205-Assignments) @StortInter
 > * [乱得要死_2022年秋季Assignments和Project](https://github.com/deepoceansame/SUSTECH_EE205_SignalAndSystem) @deepoceansame
@@ -68,7 +71,7 @@ _This page is also available in [English](README.en.md)_
 
 
 
-## :flushed:EE201 模拟电路 analog-circuits
+## :flushed:EE201-17 模拟电路 analog-circuits
 ### 习题答案
 > 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127703&parId=8065B71CE1CED3A6%2126964&o=OneUp)。
 
@@ -105,7 +108,7 @@ _This page is also available in [English](README.en.md)_
 
 
 
-## :keycap_ten:EE202 数字电路 Digital-Circuits
+## :keycap_ten:EE202-17 数字电路 Digital-Circuits
 ### 习题答案
 > 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127775&parId=8065B71CE1CED3A6%2126969&o=OneUp)。
 ### 过往试卷
@@ -159,7 +162,9 @@ _This page is also available in [English](README.en.md)_
 ## :electric_plug:EE208 工程电磁场理论 Engineering Electromagnetics
 
 ### LAB
-> [2020Spring Lab](https://github.com/sparkcyf/SUSTech_EE208_Engineering_Electromagnetics_Lab) @sparkcyf
+> * [2020Fall Lab](https://github.com/sghuang19/EEF-lab) @sghuang19
+> * [2020Spring Lab](https://github.com/sparkcyf/SUSTech_EE208_Engineering_Electromagnetics_Lab) @sparkcyf
+> * [2022Spring](https://github.com/Gralerfics/SUSTech-EE208-Engineering-Electromagnetic-Theory-Laboratory) @Gralerfics
 
 
 
@@ -168,17 +173,28 @@ _This page is also available in [English](README.en.md)_
 ## :bulb:EES103 电子创意设计I Creative-Electronic-Design-I
 
 ### Project
-> [EES103-VideoPlayer-App](https://github.com/huanghuihui0904/SUSTech-EES103-VideoPlayer-App) @huanghuihui0904
+> * [EES103-VideoPlayer-App](https://github.com/huanghuihui0904/SUSTech-EES103-VideoPlayer-App) @huanghuihui0904
+
+
+
+## :art:EE326 数字图像处理
+
+> * [2019Spring Project](https://github.com/rd-pong/EE326-Project-Playing-Card-Recognition) @rd-pong
+> * [2021Spring Lab](https://github.com/sparkcyf/SUSTech_EE326_Digital_image_Processing) @sparkcyf
+> * [2021Spring Lab](https://github.com/Tonanguyxiro/EE326_Digital_Image_Processing_LAB) @Tonanguyxiro
+> * [2021Spring Lab](https://github.com/sghuang19/dip-lab) @sghuang19
+> * [2021Spring Project](https://github.com/sparkcyf/SUSTech-EE326-Digital-Image-Processing-Project) @sparkcyf
+> * [2021Spring Project stegano](https://github.com/sghuang19/dip-project-stegano) @sghuang19
 
 
 ## :traffic_light:EE346 移动机器人导航与控制 Mobile Robot Navigation and Control
 ### Project
-> [EE346-Capstone-Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
+> * [EE346-Capstone-Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
 
 
 ## :wave:EE490 毕业设计 Graduation Design
 ### Project
-> [2023Spring_机器学习相关？](https://github.com/nvssdvk/SUSTech_EE490_2023Spring) @nvssdvk
+> * [2023Spring_机器学习相关？](https://github.com/nvssdvk/SUSTech_EE490_2023Spring) @nvssdvk
 
 
 
