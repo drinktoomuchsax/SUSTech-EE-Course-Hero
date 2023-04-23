@@ -208,9 +208,10 @@ _This page is not available in [English](README.en.md) yet._
 
 ## :heart_eyes:SDM242 模拟电路系统设计 Analog-Circuit-System-Design
 ### 历年项目
+> * [洪老师官方总结页面](https://github.com/xiaopinghong/repo_example) @洪小平
 > * [2022Fall 垃圾压缩](https://github.com/StayrealJ/SDM242_Group5) @StayrealJ
 > * [2022Fall 发牢骚](https://github.com/SDIMXly/SDM242) @SDIMXly
-> * [202Fall 垃圾桶套件](https://github.com/Group-whatsoever/Intelligent-Trash-Can-Kit) @David-s2029 @DreamWalkerXZ @Doveqise @drinktoomuchsax
+> * [2022Fall 垃圾桶套件](https://github.com/Group-whatsoever/Intelligent-Trash-Can-Kit) @David-s2029 @DreamWalkerXZ @Doveqise @drinktoomuchsax
 > * [似乎是一个秤](https://github.com/SDIM-Group2/Final-code) @SDIM-Group2
 
 ## :books:SDM371 大数据 Big-Data
