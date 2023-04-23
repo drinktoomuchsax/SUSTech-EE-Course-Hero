@@ -206,10 +206,14 @@ _This page is also available in [English](README.en.md)_
 ### Project
 > * [EES103-VideoPlayer-App](https://github.com/huanghuihui0904/SUSTech-EES103-VideoPlayer-App) @huanghuihui0904
 
-## SDM242 模拟电路系统设计 Analog-Circuit-System-Design
-### 历年
+## :thumbsup:SDM242 模拟电路系统设计 Analog-Circuit-System-Design
+### 历年项目
+> * [2022Fall 垃圾压缩](https://github.com/StayrealJ/SDM242_Group5) @StayrealJ
+> * [2022Fall 发牢骚](https://github.com/SDIMXly/SDM242) @SDIMXly
+> * [似乎是一个秤](https://github.com/SDIM-Group2/Final-code) @SDIM-Group2
+> * []()
 
-## SDM371 大数据 Big-Data
+## :books:SDM371 大数据 Big-Data
 ### Lab Assignments
 > * [2021Fall Lab](https://github.com/sghuang19/sdm-371) @sghuang19
 
