@@ -186,7 +186,7 @@ _This page is not available in [English](README.en.md) yet._
 > * [2021Spring Project stegano](https://github.com/sghuang19/dip-project-stegano) @sghuang19
 
 
-## :computer:EE314 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit_Design-Microprocessor
+## :computer:EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit_Design-Microprocessor
 > * [2020Fall something](https://github.com/sparkcyf/SUSTech_EE341_Advanced_Integrated_Circuit_Design_Microprocessor_Project) @sparkcyf @Tonanguyxiro @Duke110931 @OokaMomiji
 
 ## :traffic_light:EE346 移动机器人导航与控制 Mobile Robot Navigation and Control
