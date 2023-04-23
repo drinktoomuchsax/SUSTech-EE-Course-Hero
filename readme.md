@@ -143,7 +143,7 @@ _This page is also available in [English](README.en.md)_
 
 
 
-## :tv:EE206 通信原理 Communication-Principle
+## :radio:EE206 通信原理 Communication-Principle
 通信原理一直都是贡老师教学，习题比较古老。从一次作业的文件title来看，应该是他从南洋理工时期就存在了。
 ### 习题答案
 > [习题解答](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126975&cid=8065B71CE1CED3A6)
@@ -168,28 +168,31 @@ _This page is also available in [English](README.en.md)_
 
 
 
-
-
-## :bulb:EES103 电子创意设计I Creative-Electronic-Design-I
-
+## SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design
 ### Project
-> * [EES103-VideoPlayer-App](https://github.com/huanghuihui0904/SUSTech-EES103-VideoPlayer-App) @huanghuihui0904
+> * [2021Spring Project](https://mirrors.sustech.edu.cn/git/11810818/ee306-digital-cmos-design-project) @袁通
 
 
+## :art:EE326 数字图像处理 Digital-Image-Processing
 
-## :art:EE326 数字图像处理
-
-> * [2019Spring Project](https://github.com/rd-pong/EE326-Project-Playing-Card-Recognition) @rd-pong
+### Lab Assignments
 > * [2021Spring Lab](https://github.com/sparkcyf/SUSTech_EE326_Digital_image_Processing) @sparkcyf
 > * [2021Spring Lab](https://github.com/Tonanguyxiro/EE326_Digital_Image_Processing_LAB) @Tonanguyxiro
 > * [2021Spring Lab](https://github.com/sghuang19/dip-lab) @sghuang19
+
+### Project 
+> * [2019Spring Project](https://github.com/rd-pong/EE326-Project-Playing-Card-Recognition) @rd-pong
 > * [2021Spring Project](https://github.com/sparkcyf/SUSTech-EE326-Digital-Image-Processing-Project) @sparkcyf
 > * [2021Spring Project stegano](https://github.com/sghuang19/dip-project-stegano) @sghuang19
 
 
+## :computer:EE314 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit_Design-Microprocessor
+> * [2020Fall something](https://github.com/sparkcyf/SUSTech_EE341_Advanced_Integrated_Circuit_Design_Microprocessor_Project) @sparkcyf @Tonanguyxiro @Duke110931 @OokaMomiji
+
 ## :traffic_light:EE346 移动机器人导航与控制 Mobile Robot Navigation and Control
 ### Project
-> * [EE346-Capstone-Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
+> * [2021Spring Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
+> * [2021Spring File and Project](https://github.com/rd-pong/ee346_remote_pc_catkin_ws) @rd-pong @xy1802
 
 
 ## :wave:EE490 毕业设计 Graduation Design
@@ -197,6 +200,18 @@ _This page is also available in [English](README.en.md)_
 > * [2023Spring_机器学习相关？](https://github.com/nvssdvk/SUSTech_EE490_2023Spring) @nvssdvk
 
 
+
+## :bulb:EES103 电子创意设计I Creative-Electronic-Design-I
+
+### Project
+> * [EES103-VideoPlayer-App](https://github.com/huanghuihui0904/SUSTech-EES103-VideoPlayer-App) @huanghuihui0904
+
+## SDM242 模拟电路系统设计 Analog-Circuit-System-Design
+### 历年
+
+## SDM371 大数据 Big-Data
+### Lab Assignments
+> * [2021Fall Lab](https://github.com/sghuang19/sdm-371) @sghuang19
 
 ---
 
