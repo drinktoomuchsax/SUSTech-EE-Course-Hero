@@ -168,7 +168,7 @@ _This page is not available in [English](README.en.md) yet._
 
 
 
-## SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design
+## :camera:SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design
 ### Project
 > * [2021Spring Project](https://mirrors.sustech.edu.cn/git/11810818/ee306-digital-cmos-design-project) @袁通
 
