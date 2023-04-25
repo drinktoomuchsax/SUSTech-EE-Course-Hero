@@ -15,7 +15,7 @@
 </p>
 </div>
 
-_This page is also available in [English](README.en.md)_ 
+_This page is not available in [English](README.en.md) yet._ 
 
 [![Repo Size](https://img.shields.io/github/repo-size/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero)         [![GitHub license](https://img.shields.io/github/license/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/blob/main/LICENSE)       [![GitHub contributors](https://img.shields.io/github/contributors/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/graphs/contributors/)                                   [![GitHub stars](https://img.shields.io/github/stars/drinktoomuchsax/SUSTech-EE-Course-Hero?style=social)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/stargazers/)
 
@@ -60,7 +60,10 @@ _This page is also available in [English](README.en.md)_
 > 比较少，[有待补充](EE205_信号与系统_Signal-and-System/Exam_Paper)
 
 ### Lab Assignments and Project
+> * [2019秋季Assignments](https://github.com/sghuang19/SigSys-lab) @sghuang19
+> * [2019秋季Project](https://github.com/sghuang19/ss-project) @sghuang19
 > * [2019年秋季期末Project](https://github.com/sparkcyf/SUSTech_EE205_project) @sparkcyf
+> * [2021春季Assignments和Project](https://github.com/Tonanguyxiro/EE205_Signal_and_System_LAB) @Tonanguyxiro
 > * [2022年秋季Assignments和Project](https://github.com/Gralerfics/SUSTech-EE205-Signals-and-Systems-Lab) @Gralerfics
 > * [maybe_2022年秋季Assignments和Project](https://github.com/StortInter/EE205-Assignments) @StortInter
 > * [乱得要死_2022年秋季Assignments和Project](https://github.com/deepoceansame/SUSTECH_EE205_SignalAndSystem) @deepoceansame
@@ -68,7 +71,7 @@ _This page is also available in [English](README.en.md)_
 
 
 
-## :flushed:EE201 模拟电路 analog-circuits
+## :flushed:EE201-17 模拟电路 analog-circuits
 ### 习题答案
 > 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127703&parId=8065B71CE1CED3A6%2126964&o=OneUp)。
 
@@ -105,7 +108,7 @@ _This page is also available in [English](README.en.md)_
 
 
 
-## :keycap_ten:EE202 数字电路 Digital-Circuits
+## :keycap_ten:EE202-17 数字电路 Digital-Circuits
 ### 习题答案
 > 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127775&parId=8065B71CE1CED3A6%2126969&o=OneUp)。
 ### 过往试卷
@@ -140,7 +143,7 @@ _This page is also available in [English](README.en.md)_
 
 
 
-## :tv:EE206 通信原理 Communication-Principle
+## :radio:EE206 通信原理 Communication-Principle
 通信原理一直都是贡老师教学，习题比较古老。从一次作业的文件title来看，应该是他从南洋理工时期就存在了。
 ### 习题答案
 > [习题解答](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126975&cid=8065B71CE1CED3A6)
@@ -159,28 +162,61 @@ _This page is also available in [English](README.en.md)_
 ## :electric_plug:EE208 工程电磁场理论 Engineering Electromagnetics
 
 ### LAB
-> [2020Spring Lab](https://github.com/sparkcyf/SUSTech_EE208_Engineering_Electromagnetics_Lab) @sparkcyf
+> * [2020Fall Lab](https://github.com/sghuang19/EEF-lab) @sghuang19
+> * [2020Spring Lab](https://github.com/sparkcyf/SUSTech_EE208_Engineering_Electromagnetics_Lab) @sparkcyf
+> * [2022Spring](https://github.com/Gralerfics/SUSTech-EE208-Engineering-Electromagnetic-Theory-Laboratory) @Gralerfics
 
 
+
+## :camera:SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design
+### Project
+> * [2021Spring Project](https://mirrors.sustech.edu.cn/git/11810818/ee306-digital-cmos-design-project) @袁通
+
+
+## :art:EE326 数字图像处理 Digital-Image-Processing
+
+### Lab Assignments
+> * [2021Spring Lab](https://github.com/sparkcyf/SUSTech_EE326_Digital_image_Processing) @sparkcyf
+> * [2021Spring Lab](https://github.com/Tonanguyxiro/EE326_Digital_Image_Processing_LAB) @Tonanguyxiro
+> * [2021Spring Lab](https://github.com/sghuang19/dip-lab) @sghuang19
+
+### Project 
+> * [2019Spring Project](https://github.com/rd-pong/EE326-Project-Playing-Card-Recognition) @rd-pong
+> * [2021Spring Project](https://github.com/sparkcyf/SUSTech-EE326-Digital-Image-Processing-Project) @sparkcyf
+> * [2021Spring Project stegano](https://github.com/sghuang19/dip-project-stegano) @sghuang19
+
+
+## :computer:EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit_Design-Microprocessor
+> * [2020Fall something](https://github.com/sparkcyf/SUSTech_EE341_Advanced_Integrated_Circuit_Design_Microprocessor_Project) @sparkcyf @Tonanguyxiro @Duke110931 @OokaMomiji
+
+## :traffic_light:EE346 移动机器人导航与控制 Mobile Robot Navigation and Control
+### Project
+> * [2021Spring Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
+> * [2021Spring File and Project](https://github.com/rd-pong/ee346_remote_pc_catkin_ws) @rd-pong @xy1802
+
+
+## :wave:EE490 毕业设计 Graduation Design
+### Project
+> * [2023Spring_机器学习相关？](https://github.com/nvssdvk/SUSTech_EE490_2023Spring) @nvssdvk
 
 
 
 ## :bulb:EES103 电子创意设计I Creative-Electronic-Design-I
 
 ### Project
-> [EES103-VideoPlayer-App](https://github.com/huanghuihui0904/SUSTech-EES103-VideoPlayer-App) @huanghuihui0904
+> * [EES103-VideoPlayer-App](https://github.com/huanghuihui0904/SUSTech-EES103-VideoPlayer-App) @huanghuihui0904
 
+## :heart_eyes:SDM242 模拟电路系统设计 Analog-Circuit-System-Design
+### 历年项目
+> * [洪老师官方总结页面](https://github.com/xiaopinghong/repo_example) @洪小平
+> * [2022Fall 垃圾压缩](https://github.com/StayrealJ/SDM242_Group5) @StayrealJ
+> * [2022Fall 发牢骚](https://github.com/SDIMXly/SDM242) @SDIMXly
+> * [2022Fall 垃圾桶套件](https://github.com/Group-whatsoever/Intelligent-Trash-Can-Kit) @David-s2029 @DreamWalkerXZ @Doveqise @drinktoomuchsax
+> * [似乎是一个秤](https://github.com/SDIM-Group2/Final-code) @SDIM-Group2
 
-## :traffic_light:EE346 移动机器人导航与控制 Mobile Robot Navigation and Control
-### Project
-> [EE346-Capstone-Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
-
-
-## :wave:EE490 毕业设计 Graduation Design
-### Project
-> [2023Spring_机器学习相关？](https://github.com/nvssdvk/SUSTech_EE490_2023Spring) @nvssdvk
-
-
+## :books:SDM371 大数据 Big-Data
+### Lab Assignments
+> * [2021Fall Lab](https://github.com/sghuang19/sdm-371) @sghuang19
 
 ---
 
