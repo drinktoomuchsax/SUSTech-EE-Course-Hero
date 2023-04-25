@@ -198,6 +198,17 @@ _This page is also available in [English](README.en.md)_
 
 ---
 
+## :bust_in_silhouette:广告示例
+
+>这是一个广告示例，感兴趣请联系<a href="mailto:drinktoomuchsax@qq.com">这个邮箱</a>
+
+### ![logo](/hero_logo.png)
+# Bob Labs is hiring!
+
+Bob Labs在招本科生牛马，感兴趣的同学请联系高荣老师，大一勿扰，gaor2012@sustc.edu.cn.
+
+---
+
 ## :star: Star History :star:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=drinktoomuchsax/SUSTech-EE-Course-Hero&type=Date)](https://star-history.com/#drinktoomuchsax/SUSTech-EE-Course-Hero&Date)
