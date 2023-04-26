@@ -236,7 +236,7 @@ _This page is not available in [English](README.en.md) yet._
 
 ## :bust_in_silhouette:广告示例
 
->这是一个广告示例，感兴趣请联系<a href="mailto:drinktoomuchsax@qq.com">这个邮箱</a>
+>这是一个广告示例，感兴趣或想支持项目请联系<a href="mailto:drinktoomuchsax@qq.com">这个邮箱</a>
 
 <a href="https://unsplash.com/photos/7YUvAUbfSV0" >
   <img width="1080" src="museums-victoria.jpg" alt="lab">
