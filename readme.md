@@ -8,7 +8,7 @@
   SUSTech EE Course Hero
 </h1>
 <p align="center">
-  Save your time on your way chasing dream
+  Save your time on your way chasing passion
 </p>
 <p align="center">
 Or just get you a stupid A in the <a href="https://nces.cra.moe/search/?q=ee+sme+sdm"><b>ee course</b></a>
