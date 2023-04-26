@@ -238,10 +238,12 @@ _This page is not available in [English](README.en.md) yet._
 
 >这是一个广告示例，感兴趣请联系<a href="mailto:drinktoomuchsax@qq.com">这个邮箱</a>
 
-### ![logo](/hero_logo.png)
+<a href="https://unsplash.com/photos/7YUvAUbfSV0" >
+  <img width="1080" src="museums-victoria.jpg" alt="lab">
+</a>
 # Bob Labs is hiring!
 
-Bob Labs在招本科生牛马，感兴趣的同学请联系高荣老师，大一勿扰，gaor2012@sustc.edu.cn.
+Bob Labs在招本科生，感兴趣的同学请联系高荣老师，大一勿扰，gaor2012@sustc.edu.cn.
 
 ---
 
