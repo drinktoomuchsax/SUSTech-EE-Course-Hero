@@ -8,10 +8,10 @@
   SUSTech EE Course Hero
 </h1>
 <p align="center">
-  <img height="21"src="https://em-content.zobj.net/source/microsoft-teams/337/loudly-crying-face_1f62d.png">在南科大，被<a href="https://nces.cra.moe/search/?q=ee+sme+sdm"><b>电子课程</b></a>折磨？<img height="21"src="https://em-content.zobj.net/source/microsoft-teams/337/loudly-crying-face_1f62d.png">
+  Save your time on your way chasing dream
 </p>
 <p align="center">
-  <img height="25"src="https://em-content.zobj.net/source/microsoft-teams/337/oncoming-fist_1f44a.png">没事，EE Course Hero来咯~<img height="25"src="https://em-content.zobj.net/source/microsoft-teams/337/oncoming-fist_1f44a.png">
+Or just get you a stupid A in the <a href="https://nces.cra.moe/search/?q=ee+sme+sdm"><b>ee course</b></a>
 </p>
 </div>
 
