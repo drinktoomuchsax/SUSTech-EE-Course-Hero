@@ -28,6 +28,8 @@ _This page is not available in [English](README.en.md) yet._
 ---
 
 # :world_map:Table of Contents
+<!-- TOC -->
+
 - [:world\_map:Table of Contents](#world_maptable-of-contents)
 - [:kissing: 关于文件 :kissing:](#kissing-关于文件-kissing)
   - [Onedrive备份](#onedrive备份)
@@ -87,11 +89,12 @@ _This page is not available in [English](README.en.md) yet._
     - [Lab Assignments](#lab-assignments-1)
 - [:mortar\_board: 说明 :mortar\_board:](#mortar_board-说明-mortar_board)
 - [:telephone\_receiver: 保持联系 :telephone\_receiver:](#telephone_receiver-保持联系-telephone_receiver)
-  - [:bust\_in\_silhouette:广告示例](#bust_in_silhouette广告示例)
+- [:bust\_in\_silhouette:广告示例](#bust_in_silhouette广告示例)
 - [Bob Labs is hiring!](#bob-labs-is-hiring)
-  - [:star: Star History :star:](#star-star-history-star)
+- [:star: Star History :star:](#star-star-history-star)
 - [:books: 文件结构  :books:](#books-文件结构--books)
 
+<!-- /TOC -->
 ---
 
 # :kissing: 关于文件 :kissing:
@@ -109,15 +112,18 @@ _This page is not available in [English](README.en.md) yet._
 
 
 ## :loop:EE104 电路基础 Fundamentals-of-Electric-Circuits
+
 ### 习题答案
 > 习题来自于国外教材，有对应的[参考答案](https://onedrive.live.com/?cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128353&parId=8065B71CE1CED3A6%2128346&o=OneUp)，当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/fundamentals-of-electric-circuits-5th-edition-9780073380575)看课本答案。
 
 ### 过往试卷
+
 #### 期中
 > * [2021_秋季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128349&parId=8065B71CE1CED3A6%2128345&o=OneUp)
 > * [2023_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128605&parId=8065B71CE1CED3A6%2128345&o=OneUp)
  
 ## :currency_exchange:EE205 信号与系统 Signal-and-System
+
 ### 习题答案
 > 可以参考@Yifei Sun留下来的Tutorial（[Onedrive备份](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126971&cid=8065B71CE1CED3A6)，当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/signals-and-systems-2nd-edition-9780138147570)看课本答案。
 
@@ -133,21 +139,25 @@ _This page is not available in [English](README.en.md) yet._
 > * [2022年秋季Assignments和Project](https://github.com/Gralerfics/SUSTech-EE205-Signals-and-Systems-Lab) @Gralerfics
 > * [maybe_2022年秋季Assignments和Project](https://github.com/StortInter/EE205-Assignments) @StortInter
 > * [乱得要死_2022年秋季Assignments和Project](https://github.com/deepoceansame/SUSTECH_EE205_SignalAndSystem) @deepoceansame
+
 #### 实验报告
 
 
 
 ## :flushed:EE201-17 模拟电路 analog-circuits
+
 ### 习题答案
 > 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127703&parId=8065B71CE1CED3A6%2126964&o=OneUp)。
 
 ### 过往试卷
+
 #### :warning:注意:warning:
 > "试卷难度只能作为参考，每个老师地出题喜好不同，不能做一张试卷就掉以轻心。" *23年秋季的学长含泪打下这段字*
 
 #### 期中
 > * [(可能是)2020_秋季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128247&parId=8065B71CE1CED3A6%2127310&o=OneUp)和其[参考答案@陈梓宁](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128246&parId=8065B71CE1CED3A6%2127310&o=OneUp)
 > * [2023_春季_期中_第一题](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2129583&parId=8065B71CE1CED3A6%2127310&o=OneUp)
+
 #### 期末
 
 
@@ -155,6 +165,7 @@ _This page is not available in [English](README.en.md) yet._
 
 
 ## :flushed:EE201-17L 模拟电路实验 analog-circuits-laboratory
+
 ### 实验报告：
 > * [Lab1_95_二极管的电路应用](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127685&parId=8065B71CE1CED3A6%2126957&o=OneUp)
 > * [Lab1_100_二极管的电路应用](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127687&parId=8065B71CE1CED3A6%2126957&o=OneUp)
@@ -175,11 +186,15 @@ _This page is not available in [English](README.en.md) yet._
 
 
 ## :keycap_ten:EE202-17 数字电路 Digital-Circuits
+
 ### 习题答案
 > 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127775&parId=8065B71CE1CED3A6%2126969&o=OneUp)。
+
 ### 过往试卷
+
 #### 期中
 > * [2023年_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128625&parId=8065B71CE1CED3A6%2126968&o=OneUp)
+
 #### 期末
 
 ### Tips:
@@ -194,6 +209,7 @@ _This page is not available in [English](README.en.md) yet._
 
 
 ## :keycap_ten:EE202-17L 数字电路实验 Digital-Circuits-Laboratory
+
 ### 实验报告:
 > * [Lab1_100_门电路逻辑功能及测试](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127694&parId=8065B71CE1CED3A6%2126958&o=OneUp)
 > * [Lab2_mix_CMOS门电路测试](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127695&parId=8065B71CE1CED3A6%2126958&o=OneUp)
@@ -211,13 +227,17 @@ _This page is not available in [English](README.en.md) yet._
 
 ## :radio:EE206 通信原理 Communication-Principle
 通信原理一直都是贡老师教学，习题比较古老。从一次作业的文件title来看，应该是他从南洋理工时期就存在了。
+
 ### 习题答案
 > [习题解答](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126975&cid=8065B71CE1CED3A6)
+
 ### 过往试卷
+
 #### 期中
 > * [2023年_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128794&parId=8065B71CE1CED3A6%2127311&o=OneUp)
 
 ### LAB
+
 #### 实验报告
 
 #### Labview程序
@@ -235,6 +255,7 @@ _This page is not available in [English](README.en.md) yet._
 
 
 ## :camera:SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design
+
 ### Project
 > * [2021Spring Project](https://mirrors.sustech.edu.cn/git/11810818/ee306-digital-cmos-design-project) @袁通
 
@@ -256,12 +277,14 @@ _This page is not available in [English](README.en.md) yet._
 > * [2020Fall something](https://github.com/sparkcyf/SUSTech_EE341_Advanced_Integrated_Circuit_Design_Microprocessor_Project) @sparkcyf @Tonanguyxiro @Duke110931 @OokaMomiji
 
 ## :traffic_light:EE346 移动机器人导航与控制 Mobile Robot Navigation and Control
+
 ### Project
 > * [2021Spring Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
 > * [2021Spring File and Project](https://github.com/rd-pong/ee346_remote_pc_catkin_ws) @rd-pong @xy1802
 
 
 ## :wave:EE490 毕业设计 Graduation Design
+
 ### Project
 > * [2023Spring_机器学习相关？](https://github.com/nvssdvk/SUSTech_EE490_2023Spring) @nvssdvk
 
@@ -273,6 +296,7 @@ _This page is not available in [English](README.en.md) yet._
 > * [EES103-VideoPlayer-App](https://github.com/huanghuihui0904/SUSTech-EES103-VideoPlayer-App) @huanghuihui0904
 
 ## :heart_eyes:SDM242 模拟电路系统设计 Analog-Circuit-System-Design
+
 ### 历年项目
 > * [洪老师官方总结页面](https://github.com/xiaopinghong/repo_example) @洪小平
 > * [2022Fall 垃圾压缩](https://github.com/StayrealJ/SDM242_Group5) @StayrealJ
@@ -281,6 +305,7 @@ _This page is not available in [English](README.en.md) yet._
 > * [似乎是一个秤](https://github.com/SDIM-Group2/Final-code) @SDIM-Group2
 
 ## :books:SDM371 大数据 Big-Data
+
 ### Lab Assignments
 > * [2021Fall Lab](https://github.com/sghuang19/sdm-371) @sghuang19
 
@@ -300,7 +325,7 @@ _This page is not available in [English](README.en.md) yet._
 
 ---
 
-## :bust_in_silhouette:广告示例
+# :bust_in_silhouette:广告示例
 
 >这是一个广告示例，感兴趣或想支持项目请联系<a href="mailto:drinktoomuchsax@qq.com">这个邮箱</a>
 
@@ -314,7 +339,7 @@ Bob Labs在招本科生，感兴趣的同学请联系高荣老师，大一勿扰
 
 ---
 
-## :star: Star History :star:
+# :star: Star History :star:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=drinktoomuchsax/SUSTech-EE-Course-Hero&type=Date)](https://star-history.com/#drinktoomuchsax/SUSTech-EE-Course-Hero&Date)
 
