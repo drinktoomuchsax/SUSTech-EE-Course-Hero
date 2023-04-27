@@ -26,6 +26,74 @@ _This page is not available in [English](README.en.md) yet._
 :+1:以及，欢迎分享传播。
 
 ---
+
+# :world_map:Table of Contents
+- [:world\_map:Table of Contents](#world_maptable-of-contents)
+- [:kissing: 关于文件 :kissing:](#kissing-关于文件-kissing)
+  - [Onedrive备份](#onedrive备份)
+  - [阿里云备份](#阿里云备份)
+- [:children\_crossing: 课程索引 :children\_crossing:](#children_crossing-课程索引-children_crossing)
+  - [:loop:EE104 电路基础 Fundamentals-of-Electric-Circuits](#loopee104-电路基础-fundamentals-of-electric-circuits)
+    - [习题答案](#习题答案)
+    - [过往试卷](#过往试卷)
+      - [期中](#期中)
+  - [:currency\_exchange:EE205 信号与系统 Signal-and-System](#currency_exchangeee205-信号与系统-signal-and-system)
+    - [习题答案](#习题答案-1)
+    - [过往试卷](#过往试卷-1)
+    - [Lab Assignments and Project](#lab-assignments-and-project)
+      - [实验报告](#实验报告)
+  - [:flushed:EE201-17 模拟电路 analog-circuits](#flushedee201-17-模拟电路-analog-circuits)
+    - [习题答案](#习题答案-2)
+    - [过往试卷](#过往试卷-2)
+      - [:warning:注意:warning:](#warning注意warning)
+      - [期中](#期中-1)
+      - [期末](#期末)
+  - [:flushed:EE201-17L 模拟电路实验 analog-circuits-laboratory](#flushedee201-17l-模拟电路实验-analog-circuits-laboratory)
+    - [实验报告：](#实验报告-1)
+    - [DIY Project](#diy-project)
+  - [:keycap\_ten:EE202-17 数字电路 Digital-Circuits](#keycap_tenee202-17-数字电路-digital-circuits)
+    - [习题答案](#习题答案-3)
+    - [过往试卷](#过往试卷-3)
+      - [期中](#期中-2)
+      - [期末](#期末-1)
+    - [Tips:](#tips)
+  - [:keycap\_ten:EE202-17L 数字电路实验 Digital-Circuits-Laboratory](#keycap_tenee202-17l-数字电路实验-digital-circuits-laboratory)
+    - [实验报告:](#实验报告-2)
+    - [DIY Project](#diy-project-1)
+  - [:radio:EE206 通信原理 Communication-Principle](#radioee206-通信原理-communication-principle)
+    - [习题答案](#习题答案-4)
+    - [过往试卷](#过往试卷-4)
+      - [期中](#期中-3)
+    - [LAB](#lab)
+      - [实验报告](#实验报告-3)
+      - [Labview程序](#labview程序)
+  - [:electric\_plug:EE208 工程电磁场理论 Engineering Electromagnetics](#electric_plugee208-工程电磁场理论-engineering-electromagnetics)
+    - [LAB](#lab-1)
+  - [:camera:SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design](#camerasme306-先进数字-cmos-集成电路设计-advanced-digital-cmos-ic-design)
+    - [Project](#project)
+  - [:art:EE326 数字图像处理 Digital-Image-Processing](#artee326-数字图像处理-digital-image-processing)
+    - [Lab Assignments](#lab-assignments)
+    - [Project](#project-1)
+  - [:computer:EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit\_Design-Microprocessor](#computeree341-集成电路前沿-微处理器设计-advanced-integrated-circuit_design-microprocessor)
+  - [:traffic\_light:EE346 移动机器人导航与控制 Mobile Robot Navigation and Control](#traffic_lightee346-移动机器人导航与控制-mobile-robot-navigation-and-control)
+    - [Project](#project-2)
+  - [:wave:EE490 毕业设计 Graduation Design](#waveee490-毕业设计-graduation-design)
+    - [Project](#project-3)
+  - [:bulb:EES103 电子创意设计I Creative-Electronic-Design-I](#bulbees103-电子创意设计i-creative-electronic-design-i)
+    - [Project](#project-4)
+  - [:heart\_eyes:SDM242 模拟电路系统设计 Analog-Circuit-System-Design](#heart_eyessdm242-模拟电路系统设计-analog-circuit-system-design)
+    - [历年项目](#历年项目)
+  - [:books:SDM371 大数据 Big-Data](#bookssdm371-大数据-big-data)
+    - [Lab Assignments](#lab-assignments-1)
+- [:mortar\_board: 说明 :mortar\_board:](#mortar_board-说明-mortar_board)
+- [:telephone\_receiver: 保持联系 :telephone\_receiver:](#telephone_receiver-保持联系-telephone_receiver)
+  - [:bust\_in\_silhouette:广告示例](#bust_in_silhouette广告示例)
+- [Bob Labs is hiring!](#bob-labs-is-hiring)
+  - [:star: Star History :star:](#star-star-history-star)
+- [:books: 文件结构  :books:](#books-文件结构--books)
+
+---
+
 # :kissing: 关于文件 :kissing:
 
 ## [Onedrive备份](https://1drv.ms/f/s!AqbTzuEct2WAgeECICJblJBK7TkPSQ?e=ON5fvp)
@@ -48,8 +116,6 @@ _This page is not available in [English](README.en.md) yet._
 #### 期中
 > * [2021_秋季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128349&parId=8065B71CE1CED3A6%2128345&o=OneUp)
 > * [2023_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128605&parId=8065B71CE1CED3A6%2128345&o=OneUp)
-
-
  
 ## :currency_exchange:EE205 信号与系统 Signal-and-System
 ### 习题答案
@@ -241,6 +307,7 @@ _This page is not available in [English](README.en.md) yet._
 <a href="https://unsplash.com/photos/7YUvAUbfSV0" >
   <img width="1080" src="museums-victoria.jpg" alt="lab">
 </a>
+
 # Bob Labs is hiring!
 
 Bob Labs在招本科生，感兴趣的同学请联系高荣老师，大一勿扰，gaor2012@sustc.edu.cn.
