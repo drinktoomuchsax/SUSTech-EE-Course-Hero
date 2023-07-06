@@ -21,7 +21,7 @@ _This page is not available in [English](README.en.md) yet._
 
 :open_file_folder:这个仓库归档了南方科技大学本科同学电子相关课程的部分习题答案、参考资料、实验报告以及考试试卷。
 
-:star:鼓励各位使用本仓库的同学参考[how_to_contribure](/how_to_contribute.md)积极建设本仓库，以及顺手给一个Star。
+:star:鼓励各位使用本仓库的同学参考[CONTRIBUTING.md](/CONTRIBUTING.md)积极建设本仓库，以及顺手给一个Star。
 
 :+1:以及，欢迎分享传播。
 
