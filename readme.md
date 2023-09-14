@@ -1,7 +1,7 @@
 <div>
 <p align="center">
-<a href="https://i.postimg.cc/0Qmkb12X/sr21e1386dbc7cc.png" >
-  <img width="190" src="https://i.328888.xyz/2023/04/12/iXOQLU.png" alt="Course Hero logo">
+<a href="https://www.pixilart.com/art/ee-course-hero-sr21e1386dbc7cc" >
+  <img width="190" src="https://i.postimg.cc/0Qmkb12X/sr21e1386dbc7cc.png" alt="Course Hero logo">
 </a>
   </p>  
 <h1 align="center">
