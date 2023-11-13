@@ -44,6 +44,8 @@ _This page is not available in [English](README.en.md) yet._
   - [:radio:EE206 通信原理 Communication-Principle](#radioee206-通信原理-communication-principle)
   - [:electric\_plug:EE208 工程电磁场理论 Engineering Electromagnetics](#electric_plugee208-工程电磁场理论-engineering-electromagnetics)
   - [:camera:SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design](#camerasme306-先进数字-cmos-集成电路设计-advanced-digital-cmos-ic-design)
+  - [:musical\_score:EE317 电子科学创新实验I](#musical_scoreee317-电子科学创新实验i)
+  - [:yum:EE323 数字信号处理 Digital-Signal-Processing](#yumee323-数字信号处理-digital-signal-processing)
   - [:art:EE326 数字图像处理 Digital-Image-Processing](#artee326-数字图像处理-digital-image-processing)
   - [:computer:EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit\_Design-Microprocessor](#computeree341-集成电路前沿-微处理器设计-advanced-integrated-circuit_design-microprocessor)
   - [:traffic\_light:EE346 移动机器人导航与控制 Mobile Robot Navigation and Control](#traffic_lightee346-移动机器人导航与控制-mobile-robot-navigation-and-control)
@@ -190,10 +192,10 @@ _This page is not available in [English](README.en.md) yet._
 
 
 ## :radio:EE206 通信原理 Communication-Principle
-通信原理一直都是贡老师教学，习题比较古老。从一次作业的文件title来看，应该是他从南洋理工时期就存在了。
+通信原理一直都是贡子哥教学(截至2023spring)，习题比较古老。从一次作业的文件title来看，应该是他从南洋理工时期就存在了。
 
 ### 习题答案
-> [习题解答](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126975&cid=8065B71CE1CED3A6)
+> [习题解答](https://github.com/drinktoomuchsax/SUSTech_EE206_Communication-Principle/tree/main/%E4%BD%9C%E4%B8%9A)
 
 ### 过往试卷
 
@@ -201,10 +203,7 @@ _This page is not available in [English](README.en.md) yet._
 > * [2023年_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128794&parId=8065B71CE1CED3A6%2127311&o=OneUp)
 
 ### LAB
-
-#### 实验报告
-
-#### Labview程序
+> * [2023Spring](https://github.com/drinktoomuchsax/SUSTech_EE206_Communication-Principle/tree/main/lab) @Drinktoomuchsax
 
 
 
@@ -223,6 +222,30 @@ _This page is not available in [English](README.en.md) yet._
 ### Project
 > * [2021Spring Project](https://mirrors.sustech.edu.cn/git/11810818/ee306-digital-cmos-design-project) @袁通
 
+## :musical_score:EE317 电子科学创新实验I
+电创I一学期分为前8周和后8周，前8周用Android Studio开发app，后8周教stm32。
+
+前8周有两个小作业
+### 计算器App
+> * [Calculate Reference 1](https://github.com/Gralerfics/Gralculator) @Gralerfics
+> * [Calculate Reference 2](https://github.com/EliotChen8/ElectroCalc) @EliotChen8
+> * [Calculate Reference 3](https://github.com/drinktoomuchsax/SUSTech_EE317_cal) @Drinktoomuchsax
+
+### 音乐播放器App
+> * [MusicPlayer Reference 1](https://github.com/drinktoomuchsax/SUSTech_EE317_musicPlayer) @Drinktoomuchsax
+### STM32 part
+
+> unkonwn
+
+
+## :yum:EE323 数字信号处理 Digital-Signal-Processing
+过去的几年以来，lab内容都相同:yum:
+### Lab Assignments
+> * [2023Fall Lab](https://github.com/drinktoomuchsax/SUSTech-EE323-DSP) @喝多了萨克斯
+> * [2020Fall Lab](https://github.com/rzy0901/My-solutions-to-DSP-LAB) @任振裕
+
+### Tutorial Problem
+> * [2023Fall Tutorial](https://github.com/drinktoomuchsax/SUSTech-EE323-DSP) @喝多了萨克斯
 
 ## :art:EE326 数字图像处理 Digital-Image-Processing
 
