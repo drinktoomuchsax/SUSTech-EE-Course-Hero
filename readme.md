@@ -35,24 +35,24 @@ _This page is not available in [English](README.en.md) yet._
   - [Onedrive备份](#onedrive备份)
   - [阿里云备份](#阿里云备份)
 - [:children\_crossing: 课程索引 :children\_crossing:](#children_crossing-课程索引-children_crossing)
-  - [:loop:EE104 电路基础 Fundamentals-of-Electric-Circuits](#loopee104-电路基础-fundamentals-of-electric-circuits)
-  - [:currency\_exchange:EE205 信号与系统 Signal-and-System](#currency_exchangeee205-信号与系统-signal-and-system)
-  - [:flushed:EE201-17 模拟电路 analog-circuits](#flushedee201-17-模拟电路-analog-circuits)
-  - [:flushed:EE201-17L 模拟电路实验 analog-circuits-laboratory](#flushedee201-17l-模拟电路实验-analog-circuits-laboratory)
-  - [:keycap\_ten:EE202-17 数字电路 Digital-Circuits](#keycap_tenee202-17-数字电路-digital-circuits)
-  - [:keycap\_ten:EE202-17L 数字电路实验 Digital-Circuits-Laboratory](#keycap_tenee202-17l-数字电路实验-digital-circuits-laboratory)
-  - [:radio:EE206 通信原理 Communication-Principle](#radioee206-通信原理-communication-principle)
-  - [:electric\_plug:EE208 工程电磁场理论 Engineering Electromagnetics](#electric_plugee208-工程电磁场理论-engineering-electromagnetics)
-  - [:camera:SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design](#camerasme306-先进数字-cmos-集成电路设计-advanced-digital-cmos-ic-design)
-  - [:musical\_score:EE317 电子科学创新实验I](#musical_scoreee317-电子科学创新实验i)
-  - [:yum:EE323 数字信号处理 Digital-Signal-Processing](#yumee323-数字信号处理-digital-signal-processing)
-  - [:art:EE326 数字图像处理 Digital-Image-Processing](#artee326-数字图像处理-digital-image-processing)
-  - [:computer:EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit\_Design-Microprocessor](#computeree341-集成电路前沿-微处理器设计-advanced-integrated-circuit_design-microprocessor)
-  - [:traffic\_light:EE346 移动机器人导航与控制 Mobile Robot Navigation and Control](#traffic_lightee346-移动机器人导航与控制-mobile-robot-navigation-and-control)
-  - [:wave:EE490 毕业设计 Graduation Design](#waveee490-毕业设计-graduation-design)
-  - [:bulb:EES103 电子创意设计I Creative-Electronic-Design-I](#bulbees103-电子创意设计i-creative-electronic-design-i)
-  - [:heart\_eyes:SDM242 模拟电路系统设计 Analog-Circuit-System-Design](#heart_eyessdm242-模拟电路系统设计-analog-circuit-system-design)
-  - [:books:SDM371 大数据 Big-Data](#bookssdm371-大数据-big-data)
+  - [:loop: EE104 电路基础 Fundamentals-of-Electric-Circuits](#loop-ee104-电路基础-fundamentals-of-electric-circuits)
+  - [:currency\_exchange: EE205 信号与系统 Signal-and-System](#currency_exchange-ee205-信号与系统-signal-and-system)
+  - [:flushed: EE201-17 模拟电路 analog-circuits](#flushed-ee201-17-模拟电路-analog-circuits)
+  - [:flushed: EE201-17L 模拟电路实验 analog-circuits-laboratory](#flushed-ee201-17l-模拟电路实验-analog-circuits-laboratory)
+  - [:keycap\_ten: EE202-17 数字电路 Digital-Circuits](#keycap_ten-ee202-17-数字电路-digital-circuits)
+  - [:keycap\_ten: EE202-17L 数字电路实验 Digital-Circuits-Laboratory](#keycap_ten-ee202-17l-数字电路实验-digital-circuits-laboratory)
+  - [:radio: EE206 通信原理 Communication-Principle](#radio-ee206-通信原理-communication-principle)
+  - [:electric\_plug: EE208 工程电磁场理论 Engineering Electromagnetics](#electric_plug-ee208-工程电磁场理论-engineering-electromagnetics)
+  - [:camera: SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design](#camera-sme306-先进数字-cmos-集成电路设计-advanced-digital-cmos-ic-design)
+  - [:musical\_score: EE317 电子科学创新实验I](#musical_score-ee317-电子科学创新实验i)
+  - [:yum: EE323 数字信号处理 Digital-Signal-Processing](#yum-ee323-数字信号处理-digital-signal-processing)
+  - [:art: EE326 数字图像处理 Digital-Image-Processing](#art-ee326-数字图像处理-digital-image-processing)
+  - [:computer: EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit\_Design-Microprocessor](#computer-ee341-集成电路前沿-微处理器设计-advanced-integrated-circuit_design-microprocessor)
+  - [:traffic\_light: EE346 移动机器人导航与控制 Mobile Robot Navigation and Control](#traffic_light-ee346-移动机器人导航与控制-mobile-robot-navigation-and-control)
+  - [:wave: EE490 毕业设计 Graduation Design](#wave-ee490-毕业设计-graduation-design)
+  - [:bulb: EES103 电子创意设计I Creative-Electronic-Design-I](#bulb-ees103-电子创意设计i-creative-electronic-design-i)
+  - [:heart\_eyes: SDM242 模拟电路系统设计 Analog-Circuit-System-Design](#heart_eyes-sdm242-模拟电路系统设计-analog-circuit-system-design)
+  - [:books: SDM371 大数据 Big-Data](#books-sdm371-大数据-big-data)
 - [:mortar\_board: 说明 :mortar\_board:](#mortar_board-说明-mortar_board)
 - [:telephone\_receiver: 保持联系 :telephone\_receiver:](#telephone_receiver-保持联系-telephone_receiver)
 - [:bust\_in\_silhouette:广告示例](#bust_in_silhouette广告示例)
@@ -77,7 +77,7 @@ _This page is not available in [English](README.en.md) yet._
 
 
 
-## :loop:EE104 电路基础 Fundamentals-of-Electric-Circuits
+## :loop: EE104 电路基础 Fundamentals-of-Electric-Circuits
 
 ### 习题答案
 > 习题来自于国外教材，有对应的[参考答案](https://onedrive.live.com/?cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128353&parId=8065B71CE1CED3A6%2128346&o=OneUp)，当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/fundamentals-of-electric-circuits-5th-edition-9780073380575)看课本答案。
@@ -88,7 +88,7 @@ _This page is not available in [English](README.en.md) yet._
 > * [2021_秋季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128349&parId=8065B71CE1CED3A6%2128345&o=OneUp)
 > * [2023_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128605&parId=8065B71CE1CED3A6%2128345&o=OneUp)
  
-## :currency_exchange:EE205 信号与系统 Signal-and-System
+## :currency_exchange: EE205 信号与系统 Signal-and-System
 
 ### 习题答案
 > 可以参考@Yifei Sun留下来的Tutorial（[Onedrive备份](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126971&cid=8065B71CE1CED3A6)，当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/signals-and-systems-2nd-edition-9780138147570)看课本答案。
@@ -110,14 +110,14 @@ _This page is not available in [English](README.en.md) yet._
 
 
 
-## :flushed:EE201-17 模拟电路 analog-circuits
+## :flushed: EE201-17 模拟电路 analog-circuits
 
 ### 习题答案
 > 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127703&parId=8065B71CE1CED3A6%2126964&o=OneUp)。
 
 ### 过往试卷
 
-#### :warning:注意:warning:
+#### :warning: 注意 :warning:
 > "试卷难度只能作为参考，每个老师地出题喜好不同，不能做一张试卷就掉以轻心。" *23年秋季的学长含泪打下这段字*
 
 #### 期中
@@ -130,7 +130,7 @@ _This page is not available in [English](README.en.md) yet._
 
 
 
-## :flushed:EE201-17L 模拟电路实验 analog-circuits-laboratory
+## :flushed: EE201-17L 模拟电路实验 analog-circuits-laboratory
 
 ### 实验报告：
 > * [Lab1_95_二极管的电路应用](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127685&parId=8065B71CE1CED3A6%2126957&o=OneUp)
@@ -146,12 +146,19 @@ _This page is not available in [English](README.en.md) yet._
 > * [Lab6_100_负反馈放大电路研究](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127676&parId=8065B71CE1CED3A6%2126957&o=OneUp)
 > * [Lab6_100_负反馈放大电路研究 (2)](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127677&parId=8065B71CE1CED3A6%2126957&o=OneUp)
 
+
+### Multisim程序
+> * [Multisim_Lab4](https://github.com/SvetaFedorova/SUSTech_EE202-17L/tree/main/multisim%20program/lab4) @SvetaFedorova
+> * [Multisim_Lab5](https://github.com/SvetaFedorova/SUSTech_EE202-17L/tree/main/multisim%20program/lab5) @SvetaFedorova
+> * [Multisim_Lab6](https://github.com/SvetaFedorova/SUSTech_EE202-17L/tree/main/multisim%20program/lab6) @SvetaFedorova
+
+
 ### DIY Project
 
 
 
 
-## :keycap_ten:EE202-17 数字电路 Digital-Circuits
+## :keycap_ten: EE202-17 数字电路 Digital-Circuits
 
 ### 习题答案
 > 习题来自于国内经典教材，有对应的[习题解答册](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127775&parId=8065B71CE1CED3A6%2126969&o=OneUp)。
@@ -174,7 +181,7 @@ _This page is not available in [English](README.en.md) yet._
 
 
 
-## :keycap_ten:EE202-17L 数字电路实验 Digital-Circuits-Laboratory
+## :keycap_ten: EE202-17L 数字电路实验 Digital-Circuits-Laboratory
 
 ### 实验报告:
 > * [Lab1_100_门电路逻辑功能及测试](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127694&parId=8065B71CE1CED3A6%2126958&o=OneUp)
@@ -191,7 +198,7 @@ _This page is not available in [English](README.en.md) yet._
 
 
 
-## :radio:EE206 通信原理 Communication-Principle
+## :radio: EE206 通信原理 Communication-Principle
 通信原理一直都是贡子哥教学(截至2023spring)，习题比较古老。从一次作业的文件title来看，应该是他从南洋理工时期就存在了。
 
 ### 习题答案
@@ -208,7 +215,7 @@ _This page is not available in [English](README.en.md) yet._
 
 
 
-## :electric_plug:EE208 工程电磁场理论 Engineering Electromagnetics
+## :electric_plug: EE208 工程电磁场理论 Engineering Electromagnetics
 
 ### LAB
 > * [2020Fall Lab](https://github.com/sghuang19/EEF-lab) @sghuang19
@@ -217,12 +224,12 @@ _This page is not available in [English](README.en.md) yet._
 
 
 
-## :camera:SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design
+## :camera: SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design
 
 ### Project
 > * [2021Spring Project](https://mirrors.sustech.edu.cn/git/11810818/ee306-digital-cmos-design-project) @袁通
 
-## :musical_score:EE317 电子科学创新实验I
+## :musical_score: EE317 电子科学创新实验I
 电创I一学期分为前8周和后8周，前8周用Android Studio开发app，后8周教stm32。
 
 前8周有两个小作业
@@ -230,15 +237,23 @@ _This page is not available in [English](README.en.md) yet._
 > * [Calculate Reference 1](https://github.com/Gralerfics/Gralculator) @Gralerfics
 > * [Calculate Reference 2](https://github.com/EliotChen8/ElectroCalc) @EliotChen8
 > * [Calculate Reference 3](https://github.com/drinktoomuchsax/SUSTech_EE317_cal) @Drinktoomuchsax
+> * [Calculate Reference 4](https://github.com/Ethylene9160/SUSTC_EE317_Android_applications) @Ethylene9160
+> * [Calculate Reference 5](https://github.com/LiferLifer/EE317-MeowCulator) @LiferLifer
 
 ### 音乐播放器App
 > * [MusicPlayer Reference 1](https://github.com/drinktoomuchsax/SUSTech_EE317_musicPlayer) @Drinktoomuchsax
+> * [MusicPlayer Reference 2](https://github.com/Ethylene9160/SUSTC_EE317_Android_applications) @Ethylene9160
+> * [MusicPlayer Reference 3](https://github.com/LiferLifer/EE317-MeowMusic) @LiferLifer
+> * [MusicPlayer Reference 4](https://github.com/HuaYuXiao/Music-player-APP-design) @HuaYuXiao
+
+
 ### STM32 part
 
-> unkonwn
+> * [Homeworks 2023Spring(maybe)](https://github.com/LiferLifer/EE317-Homework) @LiferLifer
+> * [Homeworks 2023Fall](https://github.com/drinktoomuchsax/SUSTech_EE317_STM32) @Drinktoomuchsax
 
 
-## :yum:EE323 数字信号处理 Digital-Signal-Processing
+## :yum: EE323 数字信号处理 Digital-Signal-Processing
 过去的几年以来，lab内容都相同:yum:
 ### Lab Assignments
 > * [2023Fall Lab](https://github.com/drinktoomuchsax/SUSTech-EE323-DSP) @喝多了萨克斯
@@ -247,7 +262,7 @@ _This page is not available in [English](README.en.md) yet._
 ### Tutorial Problem
 > * [2023Fall Tutorial](https://github.com/drinktoomuchsax/SUSTech-EE323-DSP) @喝多了萨克斯
 
-## :art:EE326 数字图像处理 Digital-Image-Processing
+## :art: EE326 数字图像处理 Digital-Image-Processing
 
 ### Lab Assignments
 > * [2021Spring Lab](https://github.com/sparkcyf/SUSTech_EE326_Digital_image_Processing) @sparkcyf
@@ -260,29 +275,29 @@ _This page is not available in [English](README.en.md) yet._
 > * [2021Spring Project stegano](https://github.com/sghuang19/dip-project-stegano) @sghuang19
 
 
-## :computer:EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit_Design-Microprocessor
+## :computer: EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit_Design-Microprocessor
 > * [2020Fall something](https://github.com/sparkcyf/SUSTech_EE341_Advanced_Integrated_Circuit_Design_Microprocessor_Project) @sparkcyf @Tonanguyxiro @Duke110931 @OokaMomiji
 
-## :traffic_light:EE346 移动机器人导航与控制 Mobile Robot Navigation and Control
+## :traffic_light: EE346 移动机器人导航与控制 Mobile Robot Navigation and Control
 
 ### Project
 > * [2021Spring Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
 > * [2021Spring File and Project](https://github.com/rd-pong/ee346_remote_pc_catkin_ws) @rd-pong @xy1802
 
 
-## :wave:EE490 毕业设计 Graduation Design
+## :wave: EE490 毕业设计 Graduation Design
 
 ### Project
 > * [2023Spring_机器学习相关？](https://github.com/nvssdvk/SUSTech_EE490_2023Spring) @nvssdvk
 
 
 
-## :bulb:EES103 电子创意设计I Creative-Electronic-Design-I
+## :bulb: EES103 电子创意设计I Creative-Electronic-Design-I
 
 ### Project
 > * [EES103-VideoPlayer-App](https://github.com/huanghuihui0904/SUSTech-EES103-VideoPlayer-App) @huanghuihui0904
 
-## :heart_eyes:SDM242 模拟电路系统设计 Analog-Circuit-System-Design
+## :heart_eyes: SDM242 模拟电路系统设计 Analog-Circuit-System-Design
 
 ### 历年项目
 > * [洪老师官方总结页面](https://github.com/xiaopinghong/repo_example) @洪小平
@@ -291,7 +306,7 @@ _This page is not available in [English](README.en.md) yet._
 > * [2022Fall 垃圾桶套件](https://github.com/Group-whatsoever/Intelligent-Trash-Can-Kit) @David-s2029 @DreamWalkerXZ @Doveqise @drinktoomuchsax
 > * [似乎是一个秤](https://github.com/SDIM-Group2/Final-code) @SDIM-Group2
 
-## :books:SDM371 大数据 Big-Data
+## :books: SDM371 大数据 Big-Data
 
 ### Lab Assignments
 > * [2021Fall Lab](https://github.com/sghuang19/sdm-371) @sghuang19
