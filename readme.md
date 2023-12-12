@@ -31,10 +31,10 @@ _This page is not available in [English](README.en.md) yet._
 <!-- TOC -->
 
 - [:world\_map:Table of Contents](#world_maptable-of-contents)
-- [:metal: 关于文件 :metal:](#metal-关于文件-metal)
+- [:metal: 关于文件](#metal-关于文件)
   - [Onedrive备份](#onedrive备份)
   - [阿里云备份](#阿里云备份)
-- [:wheelchair: 课程索引 :wheelchair:](#wheelchair-课程索引-wheelchair)
+- [:wheelchair: 课程索引](#wheelchair-课程索引)
   - [:loop: EE104 电路基础 Fundamentals-of-Electric-Circuits](#loop-ee104-电路基础-fundamentals-of-electric-circuits)
   - [:currency\_exchange: EE205 信号与系统 Signal-and-System](#currency_exchange-ee205-信号与系统-signal-and-system)
   - [:flushed: EE201-17 模拟电路 analog-circuits](#flushed-ee201-17-模拟电路-analog-circuits)
@@ -53,17 +53,16 @@ _This page is not available in [English](README.en.md) yet._
   - [:bulb: EES103 电子创意设计I Creative-Electronic-Design-I](#bulb-ees103-电子创意设计i-creative-electronic-design-i)
   - [:heart\_eyes: SDM242 模拟电路系统设计 Analog-Circuit-System-Design](#heart_eyes-sdm242-模拟电路系统设计-analog-circuit-system-design)
   - [:books: SDM371 大数据 Big-Data](#books-sdm371-大数据-big-data)
-- [:mortar\_board: 说明 :mortar\_board:](#mortar_board-说明-mortar_board)
-- [:telephone\_receiver: 保持联系 :telephone\_receiver:](#telephone_receiver-保持联系-telephone_receiver)
+- [:mortar\_board: 说明](#mortar_board-说明)
+- [:telephone\_receiver: 保持联系](#telephone_receiver-保持联系)
 - [:bust\_in\_silhouette:广告示例](#bust_in_silhouette广告示例)
 - [Bob Labs is hiring!](#bob-labs-is-hiring)
-- [:star: Star History :star:](#star-star-history-star)
-- [:books: 文件结构  :books:](#books-文件结构--books)
+- [:star: Star History](#star-star-history)
 
 <!-- /TOC -->
 ---
 
-# :metal: 关于文件 :metal:
+# :metal: 关于文件
 
 ## [Onedrive备份](https://1drv.ms/f/s!AqbTzuEct2WAgeECICJblJBK7TkPSQ?e=ON5fvp)
 **因为GitHub LFS每月5刀的高昂费用和一些其他原因，大部分文件不会直接放在GitHub上，而是使用Onedrive作为主力备份仓库**
@@ -73,7 +72,7 @@ _This page is not available in [English](README.en.md) yet._
 
 ---
 
-# :wheelchair: 课程索引 :wheelchair:
+# :wheelchair: 课程索引 
 
 
 
@@ -313,12 +312,12 @@ _This page is not available in [English](README.en.md) yet._
 
 ---
 
-# :mortar_board: 说明 :mortar_board: 
+# :mortar_board: 说明 
 内容来源为各github仓库、QQ群文件、人传人资料等等，不能保证百分百规范，如果某部分内容侵犯了你的权益，欢迎[提交issue](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/issues/new)或<a href="mailto:drinktoomuchsax@qq.com">邮件联系</a>我。
 
 ---
 
-# :telephone_receiver: 保持联系 :telephone_receiver:
+# :telephone_receiver: 保持联系
 “电子求生营”是2022年3月4日建成的QQ群聊，旨在为电子系、SDIM、微电子学院的同学搭建交流平台，本仓库初始的大部分文件就来自于这个QQ群，欢迎加入。
 
 [![QR Code of 电子求生营](https://i.328888.xyz/2023/04/12/iXO1gp.png)](https://qm.qq.com/cgi-bin/qm/qr?k=yfgWdhDg_6PMpfJoAmHeDMJU4Zil21PM&jump_from=webapi&authKey=EMWTKJwK77Lrx6plXWzJHfXihYLV3JVRDe/ou4qaipORA88OiKtVsus+gFOVAJNd)
@@ -341,83 +340,7 @@ Bob Labs在招本科生，感兴趣的同学请联系高荣老师，大一勿扰
 
 ---
 
-# :star: Star History :star:
+# :star: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=drinktoomuchsax/SUSTech-EE-Course-Hero&type=Date)](https://star-history.com/#drinktoomuchsax/SUSTech-EE-Course-Hero&Date)
 
----
-
-# :books: 文件结构  :books: 
-
-├─EE104_电路基础_Fundamentals-of-Electric-Circuits  
-│  ├─Assignment_Answer  
-│  ├─Cheating_Paper  
-│  ├─Exam_Paper  
-│  │  └─2023-spring_midterm  
-│  ├─Lab_Report  
-│  ├─Project  
-│  ├─Reference  
-│  └─Slides  
-├─EE201-17L_模拟电路实验_Analog-Circuits-Laboratory  
-├─EE201-17_模拟电路_Analog-Circuit  
-│  ├─Assignment_Answer  
-│  ├─Exam_Paper  
-│  └─Reference  
-├─EE202-17L_数字电路实验_Digital-Circuits-Lab  
-├─EE202-17_数字电路_Digital-Circuit  
-│  ├─Assignment_Answer  
-│  ├─Exam_Paper  
-│  │  └─paper_2023spring_midterm  
-│  └─Reference  
-├─EE205_信号与系统_Signal-and-System  
-│  ├─Assignment_Answer  
-│  ├─Exam_Paper  
-│  └─Reference  
-├─EE206_通信原理_Communication-Principles  
-│  ├─Assignment_Answer  
-│  ├─Exam_Paper  
-│  │  └─通信原理_2023-spring_midterm  
-│  ├─Lab_Report  
-│  ├─Reference  
-│  └─Slides
-├─EE207_工程数学_Engineering-Mathematics  
-├─EE208_工程电磁场_Engineering-Electromagnetics  
-├─EE332_数字系统设计_Digital-System-Design  
-├─MA212_概率论与数理统计_Probability-and-Statistics  
-│  ├─Exam_Paper  
-│  │  └─概统_2020秋_quiz  
-│  └─Reference  
-├─SDM242_Analog Circuit System Design_模拟电路系统设计  
-│  ├─Reference  
-│  ├─Slides    
-│  └─Study_Note  
-├─SDM263_自动控制理论  
-│  ├─Reference  
-│  └─Refs  
-├─SDM271_系统建模与仿真  
-│  └─Reference  
-├─SME201_集成电路基础I-模拟集成电路  
-│  ├─Assignment_Answer  
-│  ├─Cheating_Paper  
-│  ├─Exam_Paper  
-│  ├─Lab_Report  
-│  ├─Project  
-│  ├─Reference  
-│  └─Slides  
-├─SME202_集成电路基础II—数字集成电路  
-│  └─Reference  
-├─SME203_微电子基础I-半导体材料物理  
-│  ├─Assignment_Answer  
-│  └─Reference  
-├─SME205_电磁场和电磁波  
-├─Temp  
-└─XX621_新建课程模版_course-template  
-    ├─Assignment_Answer  
-    ├─Cheating_Paper  
-    ├─Exam_Paper  
-    ├─Lab_Report  
-    ├─Project  
-    ├─Reference  
-    └─Slides   
-
----
