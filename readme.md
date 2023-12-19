@@ -259,6 +259,7 @@ _This page is not available in [English](README.en.md) yet._
 > * [2020Fall Lab](https://github.com/rzy0901/My-solutions-to-DSP-LAB) @任振裕
 
 ### Tutorial Problem
+> * [牛蛙卷屋QQ群（538939874）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=q6I2-vQsBVWGqGzIsnDqaYfda5gi7rAn&authKey=nYd7mvVFGYxDmSxZYZ3u90XsK0TIKmEMEYW34i2CVFPQ8w39MeUwr6h6WDHUOJrF&noverify=0&group_code=538939874)，在文件中搜索关键词“DSP”，“DSP习题答案”收录了流出的习题答案 @学长
 > * [2023Fall Tutorial](https://github.com/drinktoomuchsax/SUSTech-EE323-DSP) @喝多了萨克斯
 
 ## :art: EE326 数字图像处理 Digital-Image-Processing
