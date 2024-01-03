@@ -231,22 +231,23 @@ _This page is not available in [English](README.en.md) yet._
 ## :musical_score: EE317 电子科学创新实验I
 电创I一学期分为前8周和后8周，前8周用Android Studio开发app，后8周教stm32。
 
-前8周有两个小作业
-### 计算器App
+### Android Studio
+Android Studio开发前8周有两个小作业
+#### 计算器App
 > * [Calculate Reference 1](https://github.com/Gralerfics/Gralculator) @Gralerfics
 > * [Calculate Reference 2](https://github.com/EliotChen8/ElectroCalc) @EliotChen8
 > * [Calculate Reference 3](https://github.com/drinktoomuchsax/SUSTech_EE317_cal) @Drinktoomuchsax
 > * [Calculate Reference 4](https://github.com/Ethylene9160/SUSTC_EE317_Android_applications) @Ethylene9160
 > * [Calculate Reference 5](https://github.com/LiferLifer/EE317-MeowCulator) @LiferLifer
 
-### 音乐播放器App
+#### 音乐播放器App
 > * [MusicPlayer Reference 1](https://github.com/drinktoomuchsax/SUSTech_EE317_musicPlayer) @Drinktoomuchsax
 > * [MusicPlayer Reference 2](https://github.com/Ethylene9160/SUSTC_EE317_Android_applications) @Ethylene9160
 > * [MusicPlayer Reference 3](https://github.com/LiferLifer/EE317-MeowMusic) @LiferLifer
 > * [MusicPlayer Reference 4](https://github.com/HuaYuXiao/Music-player-APP-design) @HuaYuXiao
 
-
 ### STM32 part
+stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽取一道考察
 
 > * [Homeworks 2023Spring(maybe)](https://github.com/LiferLifer/EE317-Homework) @LiferLifer
 > * [Homeworks 2023Fall](https://github.com/drinktoomuchsax/SUSTech_EE317_STM32) @Drinktoomuchsax
