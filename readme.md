@@ -254,8 +254,11 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 
 
 ## :yum: EE323 数字信号处理 Digital-Signal-Processing
-过去的几年以来，lab内容都相同:yum:
+
+### Lecture Recording
+于老师的课程[在b站有录播](https://space.bilibili.com/502558977)
 ### Lab Assignments
+过去的几年以来，lab内容都相同:yum:
 > * [2023Fall Lab](https://github.com/drinktoomuchsax/SUSTech-EE323-DSP) @喝多了萨克斯
 > * [2020Fall Lab](https://github.com/rzy0901/My-solutions-to-DSP-LAB) @任振裕
 
