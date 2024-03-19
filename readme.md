@@ -44,11 +44,17 @@ _This page is not available in [English](README.en.md) yet._
   - [:radio: EE206 通信原理 Communication-Principle](#radio-ee206-通信原理-communication-principle)
   - [:electric\_plug: EE208 工程电磁场理论 Engineering Electromagnetics](#electric_plug-ee208-工程电磁场理论-engineering-electromagnetics)
   - [:camera: SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design](#camera-sme306-先进数字-cmos-集成电路设计-advanced-digital-cmos-ic-design)
+  - [:satellite: EE307 天线与电波传播 Antennas-and-Propagation](#satellite-ee307-天线与电波传播-antennas-and-propagation)
+  - [:signal\_strength: EE312 前沿通信系统设计 Design-of-Modern-Communication-Systems](#signal_strength-ee312-前沿通信系统设计-design-of-modern-communication-systems)
   - [:musical\_score: EE317 电子科学创新实验I](#musical_score-ee317-电子科学创新实验i)
   - [:yum: EE323 数字信号处理 Digital-Signal-Processing](#yum-ee323-数字信号处理-digital-signal-processing)
   - [:art: EE326 数字图像处理 Digital-Image-Processing](#art-ee326-数字图像处理-digital-image-processing)
+  - [:memo: EE332 数字系统设计 Digital-System-Design](#memo-ee332-数字系统设计-digital-system-design)
+  - [:bar\_chart: EE340 数据科学中的统计学习 Statistical-Learning-for-Data-Science](#bar_chart-ee340-数据科学中的统计学习-statistical-learning-for-data-science)
   - [:computer: EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit\_Design-Microprocessor](#computer-ee341-集成电路前沿-微处理器设计-advanced-integrated-circuit_design-microprocessor)
   - [:traffic\_light: EE346 移动机器人导航与控制 Mobile Robot Navigation and Control](#traffic_light-ee346-移动机器人导航与控制-mobile-robot-navigation-and-control)
+  - [:robot: EE368 机器人运动与控制方法 Robotics:Motion-and-Control](#robot-ee368-机器人运动与控制方法-roboticsmotion-and-control)
+  - [:information\_source: EE411 信息论与编码 Information-Theory-and-Coding](#information_source-ee411-信息论与编码-information-theory-and-coding)
   - [:wave: EE490 毕业设计 Graduation Design](#wave-ee490-毕业设计-graduation-design)
   - [:bulb: EES103 电子创意设计I Creative-Electronic-Design-I](#bulb-ees103-电子创意设计i-creative-electronic-design-i)
   - [:heart\_eyes: SDM242 模拟电路系统设计 Analog-Circuit-System-Design](#heart_eyes-sdm242-模拟电路系统设计-analog-circuit-system-design)
@@ -228,6 +234,27 @@ _This page is not available in [English](README.en.md) yet._
 ### Project
 > * [2021Spring Project](https://mirrors.sustech.edu.cn/git/11810818/ee306-digital-cmos-design-project) @袁通
 
+## :satellite: EE307 天线与电波传播 Antennas-and-Propagation
+
+### Lecture
+> * [2022 Spring](https://github.com/Jcq242818/EE307-2022-Spring) @Jcq242818
+
+### LAB
+> * [2022 Spring](https://github.com/Jcq242818/EE307-2022-Spring) @Jcq242818
+
+### Project
+> * [2022 Spring](https://github.com/Jcq242818/EE307-2022-Spring) @Jcq242818
+
+
+## :signal_strength: EE312 前沿通信系统设计 Design-of-Modern-Communication-Systems
+
+### Lecture
+> * [2022 Spring](https://github.com/Jcq242818/EE312-2022-Spring) @Jcq242818
+
+### LAB
+> * [2022 Spring](https://github.com/Jcq242818/EE312-2022-Spring) @Jcq242818
+
+
 ## :musical_score: EE317 电子科学创新实验I
 电创I一学期分为前8周和后8周，前8周用Android Studio开发app，后8周教stm32。
 
@@ -269,6 +296,7 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 ## :art: EE326 数字图像处理 Digital-Image-Processing
 
 ### Lab Assignments
+> * [2023Spring Lab](https://github.com/Gralerfics/SUSTech-EE326-Digital-Image-Processing-Laboratory) @Gralerfics
 > * [2021Spring Lab](https://github.com/sparkcyf/SUSTech_EE326_Digital_image_Processing) @sparkcyf
 > * [2021Spring Lab](https://github.com/Tonanguyxiro/EE326_Digital_Image_Processing_LAB) @Tonanguyxiro
 > * [2021Spring Lab](https://github.com/sghuang19/dip-lab) @sghuang19
@@ -277,17 +305,51 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [2019Spring Project](https://github.com/rd-pong/EE326-Project-Playing-Card-Recognition) @rd-pong
 > * [2021Spring Project](https://github.com/sparkcyf/SUSTech-EE326-Digital-Image-Processing-Project) @sparkcyf
 > * [2021Spring Project stegano](https://github.com/sghuang19/dip-project-stegano) @sghuang19
+> * [2023Spring Project](https://github.com/Gralerfics/SUSTech-EE326-Digital-Image-Processing-Project) @Gralerfics
 
+## :memo: EE332 数字系统设计 Digital-System-Design
+
+### LAB
+> * [2023 Spring](https://github.com/Gralerfics/SUSTech-EE332-Digital-System-Designing-Laboratory) @Gralerfics
+> * [2020 Spring](https://github.com/Yuzhe-Fu/EE332) @Yuzhe-Fu
+
+### Project
+> * [Pipelined Minecraft-like 3D Game Rendering](https://github.com/Gralerfics/FmcPGA) @Gralerfics
+> * [FIR Filter Using VHDL](https://github.com/rd-pong/EE332-FIR-Filter-Using-VHDL) @rd-pong
+
+### Martieral 
+> * [Related materials](https://github.com/Stupid-WOLF/EE332_SUSTech) @Stupid-WOLF
+
+## :bar_chart: EE340 数据科学中的统计学习 Statistical-Learning-for-Data-Science
+
+### Lecture
+> * [2023 Spring](https://github.com/Jcq242818/EE340-2023-Spring) @Jcq242818
+> * [2024 Spring to be permitted](https://github.com/Ethylene9160/EE340_Statictical_Learning_for_Data_Science) @Ethylene9160
+
+### Project
+> * [2023 Spring](https://github.com/Jcq242818/EE340-2023-Spring) @Jcq242818
 
 ## :computer: EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit_Design-Microprocessor
 > * [2020Fall something](https://github.com/sparkcyf/SUSTech_EE341_Advanced_Integrated_Circuit_Design_Microprocessor_Project) @sparkcyf @Tonanguyxiro @Duke110931 @OokaMomiji
 
 ## :traffic_light: EE346 移动机器人导航与控制 Mobile Robot Navigation and Control
 
+### LAB
+> * [2023Spring Lab](https://github.com/Gralerfics/SUSTech-EE346-Mobile-Robot-Navigation-and-Control-Laboratory) @Gralerfics
+
 ### Project
 > * [2021Spring Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
 > * [2021Spring File and Project](https://github.com/rd-pong/ee346_remote_pc_catkin_ws) @rd-pong @xy1802
 
+##  :robot: EE368 机器人运动与控制方法 Robotics:Motion-and-Control
+
+### Project
+> * [2023Spring Project](https://github.com/Gralerfics/SUSTech-EE368-Robotic-Motion-and-Control-Project) @Gralerfics
+
+## :information_source: EE411 信息论与编码 Information-Theory-and-Coding
+
+### Project
+> * [2022 Fall](https://github.com/Jcq242818/EE411-2022-Fall)@Jcq242818
 
 ## :wave: EE490 毕业设计 Graduation Design
 
