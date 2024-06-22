@@ -345,6 +345,7 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 
 ### Project
 > * [2023Spring Project](https://github.com/Gralerfics/SUSTech-EE368-Robotic-Motion-and-Control-Project) @Gralerfics
+> * [2024 Assignment, Note, Lab](https://github.com/RUSRUSHB/SUSTech-EE368-Robotics-Motion-and-Control) @RUSRUSHB
 
 ## :information_source: EE411 信息论与编码 Information-Theory-and-Coding
 
