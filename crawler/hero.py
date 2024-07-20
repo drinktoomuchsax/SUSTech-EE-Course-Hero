@@ -16,18 +16,27 @@ def get_results(search, headers, page, stars):
     result = json.loads(response.decode())
     return result
 
+def read_token_from_file(file_path):
+    with open(file_path, 'r') as file:
+        return file.read().strip()
+
 
 if __name__ == '__main__':
     # Specify the search keyword with AND operator
     search = '"sustech" AND "ee"'
 
-    # Modify the GitHub token value
-    headers = {'User-Agent': 'Mozilla/5.0',
-               'Authorization': 'token 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',
-               'Content-Type': 'application/json',
-               'Accept': 'application/json'
-               }
+    
+    # Read the GitHub token from the file
+    token_file_path = 'crawler/your_github_token.txt'  # Replace with the path to your token file
+    token = read_token_from_file(token_file_path)
 
+    # Modify the GitHub token value
+    headers = {
+        'User-Agent': 'Mozilla/5.0',
+        'Authorization': f'token {token}',
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+    }
     count = 1
     # Set an initial high value for stars
     stars = 421701
