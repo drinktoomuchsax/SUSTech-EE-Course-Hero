@@ -27,7 +27,7 @@ if __name__ == '__main__':
 
     
     # Read the GitHub token from the file
-    token_file_path = 'crawler/your_github_token.txt'  # Replace with the path to your token file
+    token_file_path = 'crawler/real_token.txt'  # Replace with the path to your token file
     token = read_token_from_file(token_file_path)
 
     # Modify the GitHub token value
