@@ -12,12 +12,12 @@
 # How to Contribute
 
 ### 1. Pull Request
-   1. Fork the repository and make changes.
-   2. Create a Merge Request.
+    1. Fork the repository and make changes.
+    2. Create a Merge Request.
 
 ### 2. Issue
-   1. Attach the repository link in an issue in this repository.
+    1. Attach the repository link in an issue in this repository.
 
 ### 3. Proxy Submission
-   1. Submit Word or Markdown files with well-written specifications.
-   2. Contact [me](mailto:drinktoomuchsax@qq.com) to organize and upload.
+    1. Submit Word or Markdown files with well-written specifications.
+    2. Contact [me](mailto:drinktoomuchsax@qq.com) to organize and upload.
