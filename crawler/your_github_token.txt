@@ -1,1 +1,2 @@
-if you didnt see this which means that 
+you need to creat a new file called "real_token.txt" in the same directory as this file, and paste your github token in it.
+the gitignore file will handle the upload of this file, you don't need to worry about safety of your token.
