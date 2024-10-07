@@ -324,10 +324,11 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 
 ### Lecture
 > * [2023 Spring](https://github.com/Jcq242818/EE340-2023-Spring) @Jcq242818
-> * [2024 Spring to be permitted](https://github.com/Ethylene9160/EE340_Statictical_Learning_for_Data_Science) @Ethylene9160
+> * [2024 Spring](https://github.com/Ethylene9160/EE340_Statictical_Learning_for_Data_Science) @Ethylene9160
 
 ### Project
 > * [2023 Spring](https://github.com/Jcq242818/EE340-2023-Spring) @Jcq242818
+> * [2024 Spring](https://github.com/Ethylene9160/EE340_Statictical_Learning_for_Data_Science) @Ethylene9160
 
 ## :computer: EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit_Design-Microprocessor
 > * [2020Fall something](https://github.com/sparkcyf/SUSTech_EE341_Advanced_Integrated_Circuit_Design_Microprocessor_Project) @sparkcyf @Tonanguyxiro @Duke110931 @OokaMomiji
