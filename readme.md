@@ -411,5 +411,4 @@ Bob Labs在招本科生，感兴趣的同学请联系高荣老师，大一勿扰
 
 # :star: Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=drinktoomuchsax/SUSTech-EE-Course-Hero&type=Date)](https://star-history.com/#drinktoomuchsax/SUSTech-EE-Course-Hero&Date)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=SUSTech-EE-Course-Hero/SUSTech-EE-Course-Hero&type=Date)](https://star-history.com/#SUSTech-EE-Course-Hero/SUSTech-EE-Course-Hero&Date)
