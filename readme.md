@@ -92,7 +92,11 @@ _This page is not available in [English](README.en.md) yet._
 #### 期中
 > * [2021_秋季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128349&parId=8065B71CE1CED3A6%2128345&o=OneUp)
 > * [2023_春季_期中](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2128605&parId=8065B71CE1CED3A6%2128345&o=OneUp)
- 
+
+### 网课
+
+推荐听高振的网课：[gaozhencn](https://space.bilibili.com/455148200/video)
+
 ## :currency_exchange: EE205 信号与系统 Signal-and-System
 
 ### 习题答案
@@ -283,7 +287,7 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 ## :yum: EE323 数字信号处理 Digital-Signal-Processing
 
 ### Lecture Recording
-于老师的课程[在b站有录播](https://space.bilibili.com/502558977)
+虞老师的课程[在b站有录播](https://space.bilibili.com/502558977)
 ### Lab Assignments
 过去的几年以来，lab内容都相同:yum:
 > * [2023Fall Lab](https://github.com/drinktoomuchsax/SUSTech-EE323-DSP) @喝多了萨克斯
