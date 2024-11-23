@@ -114,6 +114,7 @@ _This page is not available in [English](README.en.md) yet._
 > * [2022年秋季Assignments和Project](https://github.com/Gralerfics/SUSTech-EE205-Signals-and-Systems-Lab) @Gralerfics
 > * [maybe_2022年秋季Assignments和Project](https://github.com/StortInter/EE205-Assignments) @StortInter
 > * [乱得要死_2022年秋季Assignments和Project](https://github.com/deepoceansame/SUSTECH_EE205_SignalAndSystem) @deepoceansame
+> * [2023秋季Project](https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue) @Wendy-Ying
 
 #### 实验报告
 
@@ -220,6 +221,7 @@ _This page is not available in [English](README.en.md) yet._
 
 ### LAB
 > * [2023Spring](https://github.com/drinktoomuchsax/SUSTech_EE206_Communication-Principle/tree/main/lab) @Drinktoomuchsax
+> * [2024Spring](https://github.com/Wendy-Ying/Communication-Principles-Lab) @Wendy-Ying
 
 
 
@@ -230,6 +232,7 @@ _This page is not available in [English](README.en.md) yet._
 > * [2020Fall Lab](https://github.com/sghuang19/EEF-lab) @sghuang19
 > * [2020Spring Lab](https://github.com/sparkcyf/SUSTech_EE208_Engineering_Electromagnetics_Lab) @sparkcyf
 > * [2022Spring](https://github.com/Gralerfics/SUSTech-EE208-Engineering-Electromagnetic-Theory-Laboratory) @Gralerfics
+> * [2024Spring](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Lab) @Wendy-Ying
 
 
 
@@ -270,18 +273,21 @@ Android Studio开发前8周有两个小作业
 > * [Calculate Reference 3](https://github.com/drinktoomuchsax/SUSTech_EE317_cal) @Drinktoomuchsax
 > * [Calculate Reference 4](https://github.com/Ethylene9160/SUSTC_EE317_Android_applications) @Ethylene9160
 > * [Calculate Reference 5](https://github.com/LiferLifer/EE317-MeowCulator) @LiferLifer
+> * [Calculate Reference 6](https://github.com/Wendy-Ying/Android-APP) @Wendy-Ying
 
 #### 音乐播放器App
 > * [MusicPlayer Reference 1](https://github.com/drinktoomuchsax/SUSTech_EE317_musicPlayer) @Drinktoomuchsax
 > * [MusicPlayer Reference 2](https://github.com/Ethylene9160/SUSTC_EE317_Android_applications) @Ethylene9160
 > * [MusicPlayer Reference 3](https://github.com/LiferLifer/EE317-MeowMusic) @LiferLifer
 > * [MusicPlayer Reference 4](https://github.com/HuaYuXiao/Music-player-APP-design) @HuaYuXiao
+> * [MusicPlayer Reference 5](https://github.com/Wendy-Ying/Android-APP) @Wendy-Ying
 
 ### STM32 part
 stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽取一道考察
 
 > * [Homeworks 2023Spring(maybe)](https://github.com/LiferLifer/EE317-Homework) @LiferLifer
 > * [Homeworks 2023Fall](https://github.com/drinktoomuchsax/SUSTech_EE317_STM32) @Drinktoomuchsax
+> * [Homeworks 2023Fall](https://github.com/Wendy-Ying/STM32-Learning) @Wendy-Ying
 
 
 ## :yum: EE323 数字信号处理 Digital-Signal-Processing
