@@ -35,6 +35,7 @@ _This page is not available in [English](README.en.md) yet._
   - [Onedrive备份](#onedrive备份)
   - [阿里云备份](#阿里云备份)
 - [:wheelchair: 课程索引](#wheelchair-课程索引)
+  - [:mag_right: EE 电子系介绍](#mag-right-EE-电子系介绍)
   - [:loop: EE104 电路基础 Fundamentals-of-Electric-Circuits](#loop-ee104-电路基础-fundamentals-of-electric-circuits)
   - [:currency\_exchange: EE205 信号与系统 Signal-and-System](#currency_exchange-ee205-信号与系统-signal-and-system)
   - [:flushed: EE201-17 模拟电路 analog-circuits](#flushed-ee201-17-模拟电路-analog-circuits)
@@ -80,7 +81,8 @@ _This page is not available in [English](README.en.md) yet._
 
 # :wheelchair: 课程索引 
 
-
+## :mag_right: EE 电子系介绍
+> [slide](TODO/seems/like/we/need/a/new/way/to/store/the/doc)
 
 ## :loop: EE104 电路基础 Fundamentals-of-Electric-Circuits
 
