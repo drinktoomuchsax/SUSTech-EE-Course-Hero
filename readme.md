@@ -47,6 +47,7 @@ _This page is not available in [English](README.en.md) yet._
   - [:camera: SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design](#camera-sme306-先进数字-cmos-集成电路设计-advanced-digital-cmos-ic-design)
   - [:satellite: EE307 天线与电波传播 Antennas-and-Propagation](#satellite-ee307-天线与电波传播-antennas-and-propagation)
   - [:signal\_strength: EE312 前沿通信系统设计 Design-of-Modern-Communication-Systems](#signal_strength-ee312-前沿通信系统设计-design-of-modern-communication-systems)
+  - [:email: EE315 数据通信和网络 Data Communications and Computer Networks](#email-ee315-数据通信和网络-data-communications-and-computer-networks)
   - [:musical\_score: EE317 电子科学创新实验I](#musical_score-ee317-电子科学创新实验i)
   - [:yum: EE323 数字信号处理 Digital-Signal-Processing](#yum-ee323-数字信号处理-digital-signal-processing)
   - [:art: EE326 数字图像处理 Digital-Image-Processing](#art-ee326-数字图像处理-digital-image-processing)
@@ -54,11 +55,13 @@ _This page is not available in [English](README.en.md) yet._
   - [:bar\_chart: EE340 数据科学中的统计学习 Statistical-Learning-for-Data-Science](#bar_chart-ee340-数据科学中的统计学习-statistical-learning-for-data-science)
   - [:computer: EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit\_Design-Microprocessor](#computer-ee341-集成电路前沿-微处理器设计-advanced-integrated-circuit_design-microprocessor)
   - [:traffic\_light: EE346 移动机器人导航与控制 Mobile Robot Navigation and Control](#traffic_light-ee346-移动机器人导航与控制-mobile-robot-navigation-and-control)
+  - [:computer: EE351 微机原理与微系统 Microprocessors and Microsystems](#computer-ee351-微机原理与微系统-Microprocessors-and-Microsystems)
   - [:robot: EE368 机器人运动与控制方法 Robotics:Motion-and-Control](#robot-ee368-机器人运动与控制方法-roboticsmotion-and-control)
   - [:information\_source: EE411 信息论与编码 Information-Theory-and-Coding](#information_source-ee411-信息论与编码-information-theory-and-coding)
   - [:wave: EE490 毕业设计 Graduation Design](#wave-ee490-毕业设计-graduation-design)
   - [:bulb: EES103 电子创意设计I Creative-Electronic-Design-I](#bulb-ees103-电子创意设计i-creative-electronic-design-i)
   - [:heart\_eyes: SDM242 模拟电路系统设计 Analog-Circuit-System-Design](#heart_eyes-sdm242-模拟电路系统设计-analog-circuit-system-design)
+  - [:brain: SDM274 人工智能与机器学习 AI-and-Machine-Learning](#brain-SDM274-人工智能与机器学习-AI-and-Machine-Learning)
   - [:books: SDM371 大数据 Big-Data](#books-sdm371-大数据-big-data)
 - [:mortar\_board: 说明](#mortar_board-说明)
 - [:telephone\_receiver: 保持联系](#telephone_receiver-保持联系)
@@ -166,7 +169,7 @@ _This page is not available in [English](README.en.md) yet._
 
 
 ### DIY Project
-
+> * [2023Fall](https://github.com/Wendy-Ying/Electronic-Ocarina) @Wendy-Ying
 
 
 
@@ -206,7 +209,7 @@ _This page is not available in [English](README.en.md) yet._
 > * [Lab7_mix_555时基电路](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127689&parId=8065B71CE1CED3A6%2126958&o=OneUp)
 
 ### DIY Project
-
+> * [2024Spring](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS) @Wendy-Ying
 
 
 
@@ -263,6 +266,10 @@ _This page is not available in [English](README.en.md) yet._
 ### LAB
 > * [2022 Spring](https://github.com/Jcq242818/EE312-2022-Spring) @Jcq242818
 
+## :email: EE315 数据通信和网络 Data Communications and Computer Networks
+
+### Project
+> * [2024Fall](https://github.com/Wendy-Ying/Minimum-Sim-LAN) @Wendy-Ying
 
 ## :musical_score: EE317 电子科学创新实验I
 电创I一学期分为前8周和后8周，前8周用Android Studio开发app，后8周教stm32。
@@ -300,6 +307,10 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 过去的几年以来，lab内容都相同:yum:
 > * [2023Fall Lab](https://github.com/drinktoomuchsax/SUSTech-EE323-DSP) @喝多了萨克斯
 > * [2020Fall Lab](https://github.com/rzy0901/My-solutions-to-DSP-LAB) @任振裕
+> * [2024Fall Lab](https://github.com/Wendy-Ying/Digital-Signal-Processing-Lab) @Wendy-Ying
+
+### Mini Project
+> * [2024Fall](https://github.com/Wendy-Ying/Computer-Generate-Music) @Wendy-Ying
 
 ### Tutorial Problem
 > * [牛蛙卷屋QQ群（538939874）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=q6I2-vQsBVWGqGzIsnDqaYfda5gi7rAn&authKey=nYd7mvVFGYxDmSxZYZ3u90XsK0TIKmEMEYW34i2CVFPQ8w39MeUwr6h6WDHUOJrF&noverify=0&group_code=538939874)，在文件中搜索关键词“DSP”，“DSP习题答案”收录了流出的习题答案 @学长
@@ -349,10 +360,19 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 
 ### LAB
 > * [2023Spring Lab](https://github.com/Gralerfics/SUSTech-EE346-Mobile-Robot-Navigation-and-Control-Laboratory) @Gralerfics
+> * [2024Fall Lab](https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab) @Wendy-Ying
 
 ### Project
 > * [2021Spring Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
 > * [2021Spring File and Project](https://github.com/rd-pong/ee346_remote_pc_catkin_ws) @rd-pong @xy1802
+
+## :computer: EE351 微机原理与微系统 Microprocessors and Microsystems
+
+### LAB
+> * [2024Fall](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab) @Wendy-Ying
+
+### Project
+> * [2024Fall](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Midterm-Project) @Wendy-Ying
 
 ##  :robot: EE368 机器人运动与控制方法 Robotics:Motion-and-Control
 
@@ -385,6 +405,15 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [2022Fall 发牢骚](https://github.com/SDIMXly/SDM242) @SDIMXly
 > * [2022Fall 垃圾桶套件](https://github.com/Group-whatsoever/Intelligent-Trash-Can-Kit) @David-s2029 @DreamWalkerXZ @Doveqise @drinktoomuchsax
 > * [似乎是一个秤](https://github.com/SDIM-Group2/Final-code) @SDIM-Group2
+
+## :brain: SDM274 人工智能与机器学习 AI-and-Machine-Learning
+
+## lab
+> * [2024Fall](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab) @Wendy-Ying
+
+## Project
+> * [2024Fall期中](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction) @Wendy-Ying
+> * [2024Fall期末](https://github.com/Wendy-Ying/Wheat-Seed-Classification-Prediction) @Wendy-Ying
 
 ## :books: SDM371 大数据 Big-Data
 
