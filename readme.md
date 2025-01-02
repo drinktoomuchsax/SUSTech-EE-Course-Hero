@@ -209,7 +209,7 @@ _This page is not available in [English](README.en.md) yet._
 > * [Lab7_mix_555时基电路](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127689&parId=8065B71CE1CED3A6%2126958&o=OneUp)
 
 ### DIY Project
-> * [2024Spring](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS)
+> * [2024Spring](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS) @Wendy-Ying
 
 
 
