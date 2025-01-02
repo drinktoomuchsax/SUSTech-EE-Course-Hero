@@ -47,7 +47,7 @@ _This page is not available in [English](README.en.md) yet._
   - [:camera: SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design](#camera-sme306-先进数字-cmos-集成电路设计-advanced-digital-cmos-ic-design)
   - [:satellite: EE307 天线与电波传播 Antennas-and-Propagation](#satellite-ee307-天线与电波传播-antennas-and-propagation)
   - [:signal\_strength: EE312 前沿通信系统设计 Design-of-Modern-Communication-Systems](#signal_strength-ee312-前沿通信系统设计-design-of-modern-communication-systems)
-  - :email: EE315 数据通信和网络 Data Communications and Computer Networks
+  - [:email: EE315 数据通信和网络 Data Communications and Computer Networks](#email-ee315-数据通信和网络-data-communications-and-computer-networks)
   - [:musical\_score: EE317 电子科学创新实验I](#musical_score-ee317-电子科学创新实验i)
   - [:yum: EE323 数字信号处理 Digital-Signal-Processing](#yum-ee323-数字信号处理-digital-signal-processing)
   - [:art: EE326 数字图像处理 Digital-Image-Processing](#art-ee326-数字图像处理-digital-image-processing)
@@ -55,7 +55,7 @@ _This page is not available in [English](README.en.md) yet._
   - [:bar\_chart: EE340 数据科学中的统计学习 Statistical-Learning-for-Data-Science](#bar_chart-ee340-数据科学中的统计学习-statistical-learning-for-data-science)
   - [:computer: EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit\_Design-Microprocessor](#computer-ee341-集成电路前沿-微处理器设计-advanced-integrated-circuit_design-microprocessor)
   - [:traffic\_light: EE346 移动机器人导航与控制 Mobile Robot Navigation and Control](#traffic_light-ee346-移动机器人导航与控制-mobile-robot-navigation-and-control)
-  - :Construction: EE351 微机原理与微系统 Microprocessors and Microsystems
+  - [:computer: EE351 微机原理与微系统 Microprocessors and Microsystems](#computer-ee351-微机原理与微系统-Microprocessors-and-Microsystems)
   - [:robot: EE368 机器人运动与控制方法 Robotics:Motion-and-Control](#robot-ee368-机器人运动与控制方法-roboticsmotion-and-control)
   - [:information\_source: EE411 信息论与编码 Information-Theory-and-Coding](#information_source-ee411-信息论与编码-information-theory-and-coding)
   - [:wave: EE490 毕业设计 Graduation Design](#wave-ee490-毕业设计-graduation-design)
@@ -168,7 +168,7 @@ _This page is not available in [English](README.en.md) yet._
 
 
 ### DIY Project
-
+> * [2023Fall](https://github.com/Wendy-Ying/Electronic-Ocarina) @Wendy-Ying
 
 
 
@@ -208,7 +208,7 @@ _This page is not available in [English](README.en.md) yet._
 > * [Lab7_mix_555时基电路](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127689&parId=8065B71CE1CED3A6%2126958&o=OneUp)
 
 ### DIY Project
-
+> * [2024Spring](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS)
 
 
 
@@ -365,7 +365,7 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [2021Spring Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
 > * [2021Spring File and Project](https://github.com/rd-pong/ee346_remote_pc_catkin_ws) @rd-pong @xy1802
 
-## :Construction: EE351 微机原理与微系统 Microprocessors and Microsystems
+## :computer: EE351 微机原理与微系统 Microprocessors and Microsystems
 
 ### LAB
 > * [2024Fall](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab) @Wendy-Ying
