@@ -61,6 +61,7 @@ _This page is not available in [English](README.en.md) yet._
   - [:wave: EE490 毕业设计 Graduation Design](#wave-ee490-毕业设计-graduation-design)
   - [:bulb: EES103 电子创意设计I Creative-Electronic-Design-I](#bulb-ees103-电子创意设计i-creative-electronic-design-i)
   - [:heart\_eyes: SDM242 模拟电路系统设计 Analog-Circuit-System-Design](#heart_eyes-sdm242-模拟电路系统设计-analog-circuit-system-design)
+  - [:brain: SDM274 人工智能与机器学习 AI-and-Machine-Learning](#brain-SDM274-人工智能与机器学习-AI-and-Machine-Learning)
   - [:books: SDM371 大数据 Big-Data](#books-sdm371-大数据-big-data)
 - [:mortar\_board: 说明](#mortar_board-说明)
 - [:telephone\_receiver: 保持联系](#telephone_receiver-保持联系)
@@ -404,6 +405,15 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [2022Fall 发牢骚](https://github.com/SDIMXly/SDM242) @SDIMXly
 > * [2022Fall 垃圾桶套件](https://github.com/Group-whatsoever/Intelligent-Trash-Can-Kit) @David-s2029 @DreamWalkerXZ @Doveqise @drinktoomuchsax
 > * [似乎是一个秤](https://github.com/SDIM-Group2/Final-code) @SDIM-Group2
+
+## :brain: SDM274 人工智能与机器学习 AI-and-Machine-Learning
+
+## lab
+> * [2024Fall](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab) @Wendy-Ying
+
+## Project
+> * [2024Fall期中](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction) @Wendy-Ying
+> * [2024Fall期末](https://github.com/Wendy-Ying/Wheat-Seed-Classification-Prediction) @Wendy-Ying
 
 ## :books: SDM371 大数据 Big-Data
 
