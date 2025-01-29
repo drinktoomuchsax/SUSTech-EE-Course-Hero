@@ -34,6 +34,8 @@ _This page is not available in [English](README.en.md) yet._
 - [:metal: 关于文件](#metal-关于文件)
   - [Onedrive备份](#onedrive备份)
   - [阿里云备份](#阿里云备份)
+  - [百度网盘备份](#百度网盘备份)
+  - [夸克网盘备份](#夸克网盘备份)
 - [:wheelchair: 课程索引](#wheelchair-课程索引)
   - [:mag_right: EE 电子系介绍](#mag-right-EE-电子系介绍)
   - [:loop: EE104 电路基础 Fundamentals-of-Electric-Circuits](#loop-ee104-电路基础-fundamentals-of-electric-circuits)
@@ -79,6 +81,12 @@ _This page is not available in [English](README.en.md) yet._
 
 ## [阿里云备份](https://www.aliyundrive.com/s/3fBW4x2D1vd)
 **阿里云相较Onedrive缺失自动同步和关闭上传文件的功能，给不能访问OneDrive的同学勉强用着。文件依靠手动同步，若出现缺失，欢迎提醒。**
+
+## [百度网盘备份](https://pan.baidu.com/s/1nSW2662itRhoZ6Tt03Y-Hw?pwd=3h66)
+**百度/夸克网盘可供自行同步或备份（转存到你的网盘内，大小约10G，你也可以挑着存），文件依靠手动同步。**
+
+## [夸克网盘备份](https://pan.quark.cn/s/273c935e0987)
+**提取码 `MBNz` （防止恶意下载的必要手段，sry）。好处是可以在网盘内订阅更新，对于单门课资料的下载来说也不算慢。**
 
 ---
 
